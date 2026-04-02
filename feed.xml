@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Sean's Daily Briefing</title>
+    <description>Personalised daily news — world, Singapore, tech, mining &amp; motorcycles.</description>
+    <link>https://awesome-nawsh.github.io/daily-briefing/</link>
+    <language>en</language>
+    <itunes:author>Sean's AI Briefing</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <!-- EPISODES_START -->
+    <item>
+      <title>Daily Briefing — Friday, 03 April 2026</title>
+      <description><![CDATA[Your personalised daily briefing for Friday, 03 April 2026. World, Singapore, tech, mining and motorcycles.]]></description>
+      <enclosure url="https://awesome-nawsh.github.io/daily-briefing/episodes/2026-04-03.mp3" type="audio/mpeg" length="1655616"/>
+      <pubDate>Fri, 03 Apr 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="false">2026-04-03</guid>
+      <itunes:duration>00:04:15</itunes:duration>
+    </item>
+  </channel>
+</rss>
