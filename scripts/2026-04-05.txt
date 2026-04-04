@@ -1,0 +1,27 @@
+Good morning Sean, it's Sunday, the 5th of April, 2026 — Easter Sunday. Hope you managed to have a restful long weekend.
+
+Quick fact to kick things off: there's a species of jellyfish called Turritopsis dohrnii — the immortal jellyfish — that can actually reverse its own ageing process and revert back to its juvenile form when stressed or old, essentially starting life over again. Scientists believe it can repeat this cycle indefinitely, making it the only known biologically immortal animal on earth. Pretty remarkable.
+
+Now, your day. Despite it being Easter Sunday, it looks like work hasn't taken the full holiday. You've got your Weekly Planning and Look-Ahead session with Bob and Rehan at 10 this morning — that's on Webex. Then at 12:30 you've got the L4 C&D meeting, running until 1 o'clock. And rounding out the day, Admin and Any Matter at 5pm.
+
+Over to Singapore. Easter Sunday is causing real headaches at airports across the region today. More than 3,000 flight delays and 134 cancellations are being reported across Asia, with Singapore, Hong Kong, Bangkok and Jakarta among the worst hit. Cathay Pacific, Air India and Air China are all running significantly behind schedule, so if you're expecting anyone to arrive or depart today, worth a quick check. On a more forward-looking note, Microsoft has confirmed it's on track to invest 5.5 billion dollars in cloud and AI infrastructure in Singapore through 2029, a major vote of confidence in the city-state's position as Southeast Asia's technology hub.
+
+On the global stage, there are cautious signs of de-escalation around the Strait of Hormuz. Iran and Oman are reportedly drafting a protocol to allow monitored transit through the waterway, which has sent Asia-Pacific markets higher this morning. Oil had spiked sharply following the outbreak of the US-Iran conflict, pushing Brent crude from around 69 to 93 dollars a barrel — a move that has rippled out globally. Markets will be watching closely to see whether that protocol holds.
+
+In Germany, Foreign Minister Johann Wadephul is meeting his G7 counterparts this weekend to coordinate a joint response to the Iran situation. Separately, five EU economies — Germany, Italy, Spain, Portugal and Austria — are pushing for a windfall tax on energy surplus profits to help contain the price spike hitting European households and businesses.
+
+In South Africa, the main story is that fuel surge. Brent crude jumping to 93 dollars has flowed straight through to the pumps, with prices adjusted on April 1st. UDM leader Bantu Holomisa has also written to Parliament's Speaker raising concerns about state capture operating through ANC study groups in the National Assembly.
+
+In Australia, the government has moved on gambling advertising reform. Celebrity endorsements are now banned and ad volumes on broadcast platforms are being limited, though pressure is mounting to extend restrictions to digital channels.
+
+On the tech front, Microsoft this week unveiled three new foundational AI models — including MAI-Transcribe-1, which transcribes speech across 25 languages at 2.5 times the speed of Azure's existing offering, and MAI-Voice-1, a voice generation model that produces audio in near real-time. This is Microsoft leaning hard into the AI infrastructure race. And for your home lab — ESPHome pushed an update this week specifically fixing Wi-Fi reconnection stability on ESP32 devices. If you've had any sensors dropping off, a firmware update should sort that out.
+
+In science, a genuinely exciting development in gene therapy. Researchers have successfully given people born deaf the ability to hear using a single injection — delivering a working copy of a missing hearing gene directly into the inner ear. Results are showing up within weeks. It's early days, but the implications for hereditary hearing loss are significant.
+
+On BHP, Wheaton Precious Metals has closed its 4.3 billion dollar silver stream deal with BHP at the Antamina mine in Peru — effective April 1st. Under the agreement, Wheaton acquires BHP's share of payable silver until 100 million ounces are delivered, then 22.5% for the life of the mine. A clean monetisation of a silver stream that wasn't core to BHP's portfolio.
+
+And for motorcycles — Honda has rolled out its E-Clutch technology as standard equipment on both the 2026 CB750 Hornet and the Transalp, which also gets a new aluminium skid plate and revised suspension. E-Clutch makes both bikes significantly more approachable for urban riding without losing the manual engagement feel.
+
+Finally, your weather for today. Singapore is sitting at a high of around 33 degrees, low of 26, with inter-monsoon conditions setting in. Expect that familiar combination of morning sunshine and afternoon showers — it is April after all.
+
+Have a great Easter Sunday Sean. And if you're on the bike today, ride safe.
