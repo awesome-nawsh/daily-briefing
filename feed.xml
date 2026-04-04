@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Sean's Daily Briefing</title>
-    <description>Personalised daily news ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ world, Singapore, tech, mining &amp; motorcycles.</description>
+    <description>Personalised daily news ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ world, Singapore, tech, mining &amp; motorcycles.</description>
     <link>https://awesome-nawsh.github.io/daily-briefing/</link>
     <language>en</language>
     <itunes:author>Sean's AI Briefing</itunes:author>
@@ -18,7 +18,7 @@
       <itunes:duration>00:04:30</itunes:duration>
     </item>
     <item>
-      <title>Daily Briefing ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ Friday, 03 April 2026</title>
+      <title>Daily Briefing ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Friday, 03 April 2026</title>
       <description><![CDATA[Your personalised daily briefing for Friday, 03 April 2026. World, Singapore, tech, mining and motorcycles.]]></description>
       <enclosure url="https://awesome-nawsh.github.io/daily-briefing/episodes/2026-04-03.mp3" type="audio/mpeg" length="1655616"/>
       <pubDate>Fri, 03 Apr 2026 07:00:00 +0800</pubDate>
@@ -55,6 +55,14 @@
     <description>Sean's morning briefing for 2026-04-04</description>
     <enclosure url="https://awesome-nawsh.github.io/daily-briefing/episodes/2026-04-04.mp3" type="audio/mpeg" length="0"/>
     <pubDate>Fri, 03 Apr 2026 23:16:00 GMT</pubDate>
+    <guid>https://awesome-nawsh.github.io/daily-briefing/episodes/2026-04-04.mp3</guid>
+  </item>
+
+  <item>
+    <title>Daily Briefing 2026-04-04</title>
+    <description>Sean's morning briefing for 2026-04-04</description>
+    <enclosure url="https://awesome-nawsh.github.io/daily-briefing/episodes/2026-04-04.mp3" type="audio/mpeg" length="0"/>
+    <pubDate>Sat, 04 Apr 2026 10:58:34 GMT</pubDate>
     <guid>https://awesome-nawsh.github.io/daily-briefing/episodes/2026-04-04.mp3</guid>
   </item>
 </channel>
