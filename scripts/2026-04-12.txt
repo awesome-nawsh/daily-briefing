@@ -1,0 +1,27 @@
+Good morning, Sean — it's Sunday the twelfth of April, 2026.
+
+Here's one for you: sixty-five years ago this morning, Yuri Gagarin became the first human being to reach outer space. He launched at 9:07am Moscow time, completed one orbit of Earth in 108 minutes, and came home. What most people don't know is that he didn't land inside the capsule — he ejected and parachuted down separately, because the Soviets weren't confident the landing system could be trusted. He didn't know whether the hatch would even open. He found out the same way he found out everything else that day — by going anyway.
+
+Over in Singapore, Parliament has moved the Securities and Futures Amendment Bill to first reading. This sets up the regulatory framework for the Global Listing Board — SGX's joint venture with Nasdaq. If it passes, Singapore becomes a significantly more attractive listing venue for international companies across Asia. Worth watching as it progresses. Also, the temporary ban on Taiwanese pork imports has been lifted following the containment of the African swine fever outbreak there. Expect Taiwanese pork back on shelves shortly.
+
+Two major stories globally today. First, the Islamabad peace talks between the United States and Iran are ongoing right now. Vice President JD Vance, special envoy Steve Witkoff, and Jared Kushner arrived in Pakistan on Friday to meet directly with Iran's parliamentary speaker and foreign minister. As of overnight, no agreements had been reached and the Strait of Hormuz remains closed — continuing to push fuel prices up fifteen to thirty-four percent across Europe. A lot rides on the next 48 hours.
+
+Second, today is election day in Hungary. Péter Magyar's opposition Tisza party has been polling roughly ten points ahead of Viktor Orbán's Fidesz. If the numbers hold, it could end sixteen years of Orbán in power — a significant shift for European politics and NATO cohesion. Results aren't expected until tomorrow morning.
+
+Today is also Orthodox Easter Sunday, which makes the Russia-Ukraine ceasefire situation more notable. Putin ordered a 32-hour truce, and both sides exchanged 175 prisoners of war yesterday — mediated by the UAE, a genuine positive. But Ukraine's military says Russia then committed nearly 470 ceasefire violations overnight, including drone strikes on Odesa. The truce is largely a name at this point.
+
+In South Africa, the Democratic Alliance is holding its federal congress this weekend in Midrand. Solly Msimanga is contesting the chairperson role against incumbent Ivan Meyer, with the vote happening today. And from Australia — sad news that Queensland MP Jimmy Sullivan, 44, was found dead at his home. Colleagues have been paying tribute.
+
+On technology, NVIDIA officially unveiled Vera Rubin, its next flagship AI platform and successor to Blackwell — the hardware roadmap that data centres globally have been planning around. In a separate move, Elon Musk announced a merger between SpaceX and xAI, aiming to embed Grok models directly into SpaceX operations toward fully autonomous spacecraft. Bold, even by his standards.
+
+And for your ESP nodes — ESPHome 2026.3.0 shipped last month with a handy new feature: ESP32 devices now capture crash backtraces automatically across reboots and push them over the API. No serial cable needed. Very useful for remote nodes without easy physical access.
+
+On science — the James Webb Space Telescope has spotted what researchers are calling a forbidden planet. TOI-5205 b is a Jupiter-sized world orbiting a small, cool red dwarf star. The issue is that every planetary formation model says a star that small should not be able to produce a gas giant that large. Its atmosphere is producing readings that current science cannot explain. It does not just challenge existing models — it dismantles them.
+
+No major BHP announcements today, but worth noting: this is Brandon Craig's first full quarter as CEO after taking over from Mike Henry in March. BHP enters the second half of FY26 with strong momentum, and for the first time in company history, copper has overtaken iron ore as the primary earnings driver — over half of EBITDA. A genuine strategic inflection point.
+
+Ducati has revealed the fifth-generation Monster Plus — a new 890cc V2 that is 13 pounds lighter than the outgoing unit, makes 110 horsepower, and brings the whole bike in at 386 pounds. Lighter, sharper, same soul.
+
+For your Sunday in Singapore — topping out around 32 degrees with high humidity and some chance of an afternoon shower. If the bike is coming out, the morning is your best window.
+
+Have a great Sunday, Sean. Enjoy the day.
