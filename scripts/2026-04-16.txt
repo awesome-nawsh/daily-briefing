@@ -1,0 +1,31 @@
+Good morning Sean, it's Thursday, the sixteenth of April, 2026.
+
+On this day in 1972, NASA launched Apollo 16 — John Young, Ken Mattingly, and Charles Duke headed for the Moon's Descartes Highlands. Young and Duke spent three days on the surface, collecting nearly 100 kilograms of lunar samples and driving the lunar rover further from the lander than any crew before them. Young later commanded the very first Space Shuttle mission. A fine reminder of what a well-planned Thursday can achieve.
+
+Over in Singapore, two stories this morning. Human rights organisations including Human Rights Watch and Amnesty International are calling on the government to halt the scheduled execution today of Omar bin Yacob Bamadhaj, convicted of importing just over a kilogram of cannabis. The case is renewing international attention on Singapore's mandatory drug sentencing laws.
+
+In lighter news: Singapore's new two-power-bank-per-passenger aircraft rule came fully into effect yesterday, with 15 devices confiscated at checkpoints on the very first day. If you're flying out any time soon — pack accordingly.
+
+On the global stage, Viktor Orban has lost power in Hungary after sixteen years as prime minister. Opposition leader Peter Magyar — who only founded his Tisza party two years ago — swept Sunday's election. European capitals are welcoming the shift, with Magyar saying he could take power as early as May. Orban is already skipping his final EU summit, which tells you how he's reading it.
+
+And the IMF published its Regional Economic Outlook for Asia-Pacific today, trimming global growth projections to 3.1 percent for 2026. The primary culprit remains the Strait of Hormuz disruption — a reminder that the US-Iran standoff has tentacles reaching well beyond the region. The Pacific island nation of Tuvalu declared a state of emergency this week over fuel shortages, with the Strait carrying roughly 20 percent of global seaborne oil. A stark illustration of how interconnected these supply chains really are.
+
+Germany and Ukraine sealed a strategic defence partnership this week in Berlin, confirmed at a joint news conference with Chancellor Merz and President Zelenskyy. Germany gains access to Ukraine's battlefield-tested drone expertise; Ukraine gets expanded German military support. A strong signal of Berlin's long-game commitment to Kyiv.
+
+In South Africa, EFF leader Julius Malema faces sentencing today in the East London magistrate's court. Whatever the outcome, it will dominate political headlines through the week.
+
+And Australia's federal government has announced a 53 billion dollar increase in defence spending — a major uplift for the Indo-Pacific security posture and a tailwind for BHP's home market.
+
+For the tech and maker community — ESPHome 2026.4.0 is out this month, and it is a meaningful release. ESP32 devices now default to maximum CPU frequency, delivering 33 percent faster API operations, along with signed OTA firmware verification and custom partition tables. Bluetooth Proxy forwarding on ESP32-C3 now uses just 1.8 percent of the main loop. Worth updating your nodes if you have not already.
+
+On the broader AI front, PwC's latest global study finds 74 percent of AI's economic value is being captured by just 20 percent of companies — and the defining factor is that the winners are using AI to grow revenue, not just trim costs.
+
+In science: researchers have taken a significant step toward a treatment for the Epstein-Barr virus — one of the world's most common infections and a known driver of multiple cancers and chronic diseases including multiple sclerosis. The team identified a viable mechanism to neutralise the virus. Clinical trials are still ahead, but it is the clearest path forward the field has had in decades.
+
+On BHP: a quieter week for major announcements, but worth noting the completion earlier this month of the 4.3 billion dollar silver streaming deal with Wheaton Precious Metals — the largest streaming arrangement ever recorded by upfront consideration. It monetises BHP's Antamina silver by-product stream and is drawing strong attention in mining circles as a sharp capital allocation move.
+
+Finally, on motorcycles: KTM has started delivering the 2027 Adventure R Rally this month — WP XPLOR PRO suspension, 10.6 inches of ground clearance, and an Akrapovic exhaust as standard. Early reviewers are calling it the most off-road capable Adventure since the original.
+
+The weather in Singapore today: a warm Thursday, highs around 31 degrees Celsius with a chance of afternoon showers. Classic April — keep an umbrella handy.
+
+Have a great day, Sean. Ride safe if you're heading out on the bike.
