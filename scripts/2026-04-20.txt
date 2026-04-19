@@ -1,0 +1,23 @@
+Good morning Sean, it's Monday, the twentieth of April, 2026.
+
+Here's a little fun fact to kick off your week: on this exact day back in 2005, YouTube's very first video was uploaded — a nineteen-second clip called Me at the Zoo, filmed by co-founder Jawed Karim in front of the elephant enclosure at San Diego Zoo. Twenty-one years on, more video gets added to YouTube every hour than any one person could watch in a lifetime. Not a bad trade for a trip to see some elephants.
+
+Looking at your day, you're still on Canadian hours out in Saskatoon. You've got a morning run pencilled in at seven, then an India-time forum session at eight, and after that a long focus block carved out from eight-twenty through to just before one. Your afternoon is all Potash — a Technology Readiness discussion kicks off at three-thirty, KPIs for FY27 overlaps at four, and a retro on OCM for the RU and Potash integration runs four-thirty to five-thirty. Heads up, Rahul is on leave today, so you're flying solo if anything lands in his court.
+
+Over in Singapore, a couple worth your attention. The Monetary Authority of Singapore's latest read has the economy growing four-point-six percent year-on-year in the first quarter — a firm start, but MAS is flagging that growth will slow through the rest of the year as the Strait of Hormuz disruption keeps biting into import prices. Oil is still up more than sixty percent since the conflict began, and Asia is feeling it. And second, police are warning of a wave of phishing scams using fake Google Meet video calls. Scammers have been impersonating officers to pressure people into transferring money — thirteen confirmed cases since the start of April. If a cop wants to video-call you, that's not how it works.
+
+On the global stage, the fragile two-week US–Iran ceasefire is still holding, but only just. The Strait of Hormuz is effectively shut to normal traffic and Brent crude is knocking on a hundred dollars a barrel, around forty percent higher than when this started back in February. In parallel, Marco Rubio kicked off direct Israel–Lebanon talks at the State Department over the weekend, with the US ambassador to Lebanon in the room. Markets will be watching both tracks all week.
+
+Moving to our key regions. In Germany, Chancellor Friedrich Merz is now officially the least popular head of government in the world — a fresh survey puts his approval at just nineteen percent across twenty-four democratically elected leaders. Rough backdrop as he tries to land his energy and defence agenda. Down in South Africa, EFF leader Julius Malema has been handed a five-year prison sentence for firing a rifle into the air at a party rally; his team has been granted leave to appeal, so this is far from over. And in Australia, a gas leak sparked a major fire at the Geelong refinery in Victoria — one of only two working refineries in the country, good for about ten percent of Australia's fuel supply. It's under control now, but expect ripple effects at the pump and on ASX-listed fuel names this week.
+
+On the tech side, DeepSeek has dropped V4, a one-trillion-parameter open-weights Mixture-of-Experts model trained for a reported five-point-two million dollars. Stanford's latest index says China has nearly erased the US lead on core AI benchmarks. Quick add-on for the maker bench: ESPHome's April release pushes ESP32 chips to two-forty megahertz by default, a thirty-three percent speed-up on API operations. If you've got nodes humming at home, a firmware refresh might be a nice weekend project.
+
+In science today, palaeontologists have unveiled the first scientifically accurate full skeleton of Deinosuchus schwimmeri — a bus-sized crocodile that hunted dinosaurs across what's now the American South about eighty million years ago. Picture a saltwater croc, but thirty-three feet long. Somehow very much alive in my nightmares now.
+
+On the BHP front, all eyes on the Q3 FY26 operational review landing Wednesday morning Melbourne time — eight-thirty on the twenty-second. Markets will be looking closely at iron ore and copper throughput, and your Potash meetings this week feed neatly into that wider narrative.
+
+Quick one on bikes: the new 2026 Ducati Monster Plus has landed with an 890cc V2, about thirteen pounds lighter than the outgoing engine, starting at around fourteen thousand US dollars. Subtle styling tweaks, sharper handling, and that classic bare-metal Monster silhouette intact.
+
+And finally, Singapore weather today: hot and humid as ever, a high of thirty-three Celsius, overnight low of twenty-five, and a decent chance of afternoon thunderstorms. Back home, in other words.
+
+Have a great Monday Sean, enjoy that morning run, and ride safe if the bike comes out this week.
