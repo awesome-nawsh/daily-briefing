@@ -1,0 +1,23 @@
+Good morning Sean, it's Sunday, the twenty-sixth of April, 2026.
+
+Here's a quietly amazing one to start the day. A typical fluffy white cloud, the kind drifting overhead on any given afternoon, weighs roughly a million tonnes. Its density is only about half a percent lower than the air around it, and that tiny difference is what keeps a million tonnes of water vapour suspended above your head. Worth a glance up next time you step outside.
+
+Looking at your day, it's a properly relaxed one. The calendar is clear all morning, and then you've got Sunday Lunch from one until six over at 1014 Aird Street. Plenty of runway either side for coffee, a walk, or whatever the weekend feels like asking of you.
+
+Over in Singapore, the Yachting Festival at ONE15 Marina at Sentosa Cove wraps today, four days with more than seventy yachts on display including superyachts, sailing catamarans and a strong eco-friendly contingent. Quietly one of the bigger events on the regional marine calendar. Prime Minister Lawrence Wong has also been making the rounds at the 6th Singapore Division, watching the Sense and Strike integrated training, a steady reminder that Singapore keeps investing in defence readiness while the rest of the region debates it.
+
+On the global front, today marks the fortieth anniversary of Chernobyl. Forty years to the day since reactor four went critical and reshaped how the world thought about nuclear power. The anniversary lands at a particularly charged moment, with energy security back at the centre of European policy and Ukraine's nuclear infrastructure still under threat. Worth a moment of acknowledgement. In parallel, the Iran picture continues to move. US envoys Steve Witkoff and Jared Kushner are in Pakistan today for a fresh round of talks with Iran's foreign minister, and the Trump administration has extended the Iran ceasefire to today. Markets will be watching how that lands tomorrow.
+
+In Germany, the government has halved its 2026 growth forecast to half a percent, down from one percent in January, citing higher energy costs from the Iran war. Berlin has also pushed through a temporary fuel tax cut, controversial with the Greens given the climate implications, but politically unavoidable. From South Africa, a sobering data point: diabetes has now overtaken tuberculosis as the leading cause of natural death, and more than half of those living with the condition remain undiagnosed. Civil society is treating it as a public health emergency. And in Australia, Defence has been confirming the country's record peacetime military spend, a long-running shift that mirrors what we are seeing in Germany.
+
+On the tech side, DeepSeek has dropped preview versions of its V4 Flash and V4 Pro models this week, almost exactly a year on from the original V3 release that rattled Silicon Valley. The headline feature is a one million token context window, which lets you feed entire codebases or long documents in as a single prompt, plus what the company is calling top tier coding benchmark results. Interesting to watch how Anthropic, Google, OpenAI and xAI respond on price and reliability. And on the maker side, ESPHome 2026.4.0 just shipped, with ESP32 boards now defaulting to two hundred and forty megahertz instead of one sixty, which is roughly 33 percent faster API operations out of the box. Worth a flash if you have idle nodes around the house.
+
+In science, the Curiosity rover team has announced the detection of seven previously undetected organic molecules on Mars. Not biosignatures in themselves, but the chemistry on the surface keeps quietly getting more interesting the harder we look. A real step toward understanding whether Mars ever had the building blocks for life.
+
+On the BHP front, Wheaton Precious Metals has paid four point three billion US dollars upfront to BHP, the largest precious metals streaming deal on record. The agreement locks in a long-term silver stream off BHP's copper operations and gives the balance sheet a meaningful lift. Combined with the China iron ore breakthrough earlier in the week, sentiment around the stock is sitting at a multi-week high.
+
+One for the bike file: first ride reviews of Ducati's new Hypermotard V2 SP are landing this week. Lighter, sharper, with the new 890cc V2 engine doing the heavy lifting. By all accounts it is the most playful supermoto-style Ducati in years.
+
+Looking up at the sky outside, Saskatoon is sitting at zero degrees today with periods of light snow, dropping to minus thirteen overnight under clear skies. Cosy day for it.
+
+Have a great Sunday Sean, enjoy the lunch at Aird Street.
