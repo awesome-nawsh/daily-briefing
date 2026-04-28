@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-04-29",
+    "stories": [
+      "Good morning Sean, it's Wednesday, the twenty-ninth of April, 2026",
+      "The next time you see a flash of lightning, remember you've just watched a column of air get heated to roughly thirty thousand kelvin",
+      "That's about five times hotter than the surface of the Sun, packed into a strike that lasts a fraction of a second",
+      "The sound that follows is just air expanding so violently it slams back into itself",
+      "You've got a morning run from seven, then it's wheels up",
+      "Travel to the airport from eight, the flight from Saskatoon to Toronto departs at ten thirty, and you connect on to Seattle at five thirty in the evening, landing just before one in the morning",
+      "The Marriott near Sea-Tac is your bed for the night",
+      "In between flights you've got a follow-up at three thirty on the spares risk for ramp-up and early ops"
+    ]
+  },
+  {
     "date": "2026-04-28",
     "stories": [
       "Good morning Sean, it's Tuesday, the twenty-eighth of April, 2026",
@@ -23,19 +36,6 @@
       "Looking at your Saskatoon Monday, it's a properly meaty one",
       "You kick off with a morning run from seven to eight, then ten hours of Big Rock Time from eight thirty through six thirty",
       "A late finish, but a focused middle of the day"
-    ]
-  },
-  {
-    "date": "2026-04-26",
-    "stories": [
-      "Good morning Sean, it's Sunday, the twenty-sixth of April, 2026",
-      "Here's a quietly amazing one to start the day",
-      "A typical fluffy white cloud, the kind drifting overhead on any given afternoon, weighs roughly a million tonnes",
-      "Its density is only about half a percent lower than the air around it, and that tiny difference is what keeps a million tonnes of water vapour suspended above your head",
-      "Worth a glance up next time you step outside",
-      "Looking at your day, it's a properly relaxed one",
-      "The calendar is clear all morning, and then you've got Sunday Lunch from one until six over at 1014 Aird Street",
-      "Plenty of runway either side for coffee, a walk, or whatever the weekend feels like asking of you"
     ]
   }
 ]
