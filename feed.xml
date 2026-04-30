@@ -188,5 +188,13 @@
     <pubDate>Wed, 29 Apr 2026 23:16:23 GMT</pubDate>
     <guid>https://awesome-nawsh.github.io/daily-briefing/episodes/2026-04-30.mp3</guid>
   </item>
+
+  <item>
+    <title>Evening Briefing 2026-04-30</title>
+    <description>Sean evening briefing for 2026-04-30</description>
+    <enclosure url="https://awesome-nawsh.github.io/daily-briefing/episodes/2026-04-30-evening.mp3" type="audio/mpeg" length="0"/>
+    <pubDate>Thu, 30 Apr 2026 11:25:00 GMT</pubDate>
+    <guid>https://awesome-nawsh.github.io/daily-briefing/episodes/2026-04-30-evening.mp3</guid>
+  </item>
 </channel>
 </rss>
