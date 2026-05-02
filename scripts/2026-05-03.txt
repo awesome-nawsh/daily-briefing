@@ -1,0 +1,27 @@
+Good morning Sean, it's Sunday, the third of May, 2026.
+
+Here's something to start with that I find genuinely satisfying: no US President has ever died in the month of May. Every other month of the year has claimed at least one. May is apparently untouchable. Something to file away for the right pub quiz team.
+
+Your calendar is clear today — no calls, no meetings, no pre-reads. A full Sunday to do with as you please.
+
+On the Singapore economy, fresh trade data makes for encouraging reading. Non-oil domestic exports jumped 15.3 percent in March, while re-exports surged a remarkable 61.4 percent, extending the gains from the previous quarter. It's a signal that Singapore's role as a regional trade hub remains very much intact despite the global headwinds. On a related note, a Citi report this week flags that local consumer inflation expectations are ticking up — 88 percent of respondents now expect prices to rise over the next year, even though actual inflation remains relatively tame at around 1.2 to 1.4 percent. Worth watching if it starts to translate into wage pressures.
+
+Two big stories on the global front. First, the UAE has officially left OPEC — the third member to depart in seven years. Combined with the broader instability from the US-Iran conflict and its knock-on effects across the Gulf, this is quietly reshaping the architecture of global energy production. Second, the EU-Mercosur trade deal began provisional application on the first of May, creating tariff-free access for EU exporters into Argentina, Brazil, Paraguay, and Uruguay. It's the largest trade agreement the EU has ever signed by population, and signals that Europe is actively expanding its economic relationships beyond the traditional transatlantic axis.
+
+In Germany, Washington confirmed it will withdraw around 5,000 troops in the next six to twelve months, following friction between President Trump and Chancellor Merz over US strategy in the Iran conflict. It marks a concrete step in the deteriorating NATO relationship, and European leaders are already scrambling to invoke the EU's own mutual defence clause as a contingency.
+
+In South Africa, Cape Town residents are being warned to prepare for widespread water outages from today through to the 10th of May. And separately, a break-in at a South African National Defence Force facility in Pretoria has left military-grade weapons unaccounted for — that one is getting serious attention from security analysts.
+
+In Australia, the Reserve Bank meets Monday and Tuesday for its next monetary policy decision. Markets are watching closely for signs of a rate cut given the global slowdown picture.
+
+On tech, Huawei is projecting its AI chip revenue will hit roughly 12 billion US dollars this year — up sixty percent from 2025 — as demand for domestic Chinese AI infrastructure accelerates. It's a useful reminder that the global AI supply chain is bifurcating in ways that will have long-term implications for the tech sector.
+
+And for the makers out there: ESPHome just dropped version 2026.4.0 with a significant performance boost. ESP32 devices now default to 240 megahertz instead of 160 — that's a 33 percent faster processor speed — and sensor publishing is reportedly up to 46 times faster using a new client-side logging architecture. If you've got nodes that have been feeling sluggish, this one is worth upgrading.
+
+On science, a team at King's College London has created a new aluminium compound that can do the work of expensive rare earth metals. Its unusual triangular molecular structure gives it exceptional stability and reactivity, opening up the possibility of far cheaper and greener industrial chemistry. The kind of materials science breakthrough that sounds modest but could have real implications for everything from batteries to catalysts.
+
+On BHP, the company has had a strong run this year — driven by reports of record iron ore production from its Western Australian operations and solid copper output. The half-year operational review is scheduled for July, so those production numbers will be the ones to watch.
+
+Finally, the 2026 Ducati Monster Plus is out in its fifth generation — a new 890cc V-twin engine producing 110 horsepower, and 13 pounds lighter than the outgoing model. Ducati calls it the sharpest Monster yet, and first ride reviews are landing now if you want to take a look.
+
+For Singapore today: warm and humid with a high of around 30 degrees and thundery showers expected in the afternoon. Get your ride or your run in before lunch. Have a great Sunday, Sean — enjoy the rest of the long weekend.
