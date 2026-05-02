@@ -244,5 +244,13 @@
     <pubDate>Sat, 02 May 2026 07:11:40 GMT</pubDate>
     <guid>https://awesome-nawsh.github.io/daily-briefing/episodes/2026-05-02-evening.mp3</guid>
   </item>
+
+  <item>
+    <title>Evening Briefing 2026-05-02</title>
+    <description>Sean's evening briefing for 2026-05-02</description>
+    <enclosure url="https://awesome-nawsh.github.io/daily-briefing/episodes/2026-05-02-evening.mp3" type="audio/mpeg" length="0"/>
+    <pubDate>Sat, 02 May 2026 11:17:13 GMT</pubDate>
+    <guid>https://awesome-nawsh.github.io/daily-briefing/episodes/2026-05-02-evening.mp3</guid>
+  </item>
 </channel>
 </rss>
