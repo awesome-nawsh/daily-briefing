@@ -1,0 +1,49 @@
+Good morning Sean, it's Monday the fourth of May, 2026.
+
+And yes — may the Fourth be with you. Today is Star Wars Day, the date fans around the world have claimed as a celebration of the galaxy far, far away. But here's a lesser-known historical twist: on this exact date in 1910, Canada officially established its own Royal Navy. Before that, Canadians relied entirely on the British fleet. Sometimes the greatest empires are built one fleet at a time.
+
+SINGAPORE
+
+Singapore is doing some active relationship work this week. New Zealand Prime Minister Christopher Luxon is in town through tomorrow, signing agreements focused on essential supply trade flows — a quietly important partnership given the current global supply chain pressures from the Iran conflict. Meanwhile, Senior Minister Lee Hsien Loong departs today for a five-day visit to Malaysia's Pahang and Terengganu states, deepening cross-border ties at the regional level.
+
+Practical update closer to home: services on the Thomson-East Coast Line are back to normal after a signalling fault caused disruptions yesterday morning. If TEL is on your commute, you're clear.
+
+GLOBAL GEOPOLITICS
+
+The dominant story worldwide remains the US-Israel war on Iran, now ten weeks in. There may be a significant development: Iran has reportedly offered to reopen the Strait of Hormuz in exchange for the US lifting its naval blockade. Trump, who has said sanctions relief comes only when a deal is one hundred percent complete, hasn't responded publicly yet. It's the most concrete de-escalation signal since the conflict began on February 28th, and markets are watching it closely. Oil is still above a hundred dollars a barrel, and the IMF now projects global growth at just 3.1 percent for 2026 with inflation running at 4.4 percent.
+
+In Europe, Washington delivered another jolt: the Pentagon has formally begun pulling five thousand US troops out of Germany. Berlin's defence minister called it anticipated, but NATO allies are rattled — Spain and Italy are reportedly next on the list. Germany has responded with an ambitious military expansion plan targeting 460,000 combined active and reserve troops by the mid-2030s.
+
+US-brokered Russia-Ukraine peace talks continue but remain without a decisive breakthrough. Global military spending hit a record 2.9 trillion dollars in 2025, with European expenditure surging 14 percent to its highest level ever. And Trump was the only major economy leader absent from a 60-nation climate conference in Colombia last week.
+
+GERMANY, SOUTH AFRICA AND AUSTRALIA
+
+Germany's government has halved its economic growth forecast for 2026, citing the oil price shock from the Iran war. Consumer confidence dropped sharply in May — the steepest monthly fall since 2022.
+
+In South Africa, President Ramaphosa has set the local government elections for November 4th this year — worth noting given BHP's footprint in the country.
+
+In Australia, police charged a 47-year-old man with the murder of five-year-old Indigenous girl Kumanjayi Little Baby, whose death last week sparked violent protests in the Northern Territory. The case has shaken the country and reignited hard national conversations about the safety of Indigenous children.
+
+TECH AND AI
+
+Great news for your home automation setup, Sean: ESPHome 2026.4.0 is a significant release. ESP32 devices now default to maximum CPU frequency — that's 33 percent faster API operations — and a new logging architecture achieves up to 46 times faster sensor publishing. ESPHome 2026.5.0 is also due this month, and it will add native Zigbee end-device support for ESP32 microcontrollers for the first time.
+
+On the broader AI front, Google announced at Cloud Next that Maps is getting generative AI capabilities — enhanced visual and data analytics built in. And Japan is proving that physical AI in real industrial settings is moving well beyond pilot projects, driven by the country's severe labour shortages.
+
+SCIENCE AND DISCOVERY
+
+Oxford physicists achieved a genuine first last month: the demonstration of quadsqueezing — a fourth-order quantum effect that had been theorised for decades but never observed. It's a significant milestone in quantum physics and potentially a building block for next-generation computing and sensing.
+
+MINING AND BHP
+
+BHP's nine-month operational review, published April 22nd, confirms the company is tracking in the upper half of its FY26 copper guidance, with record throughput at Escondida. BHP also completed the divestment of its Carajas assets on April 2nd, collecting US$240 million on completion with up to an additional US$225 million in contingent payments possible.
+
+MOTORCYCLES
+
+Motorcycle dot com published a first-ride review of the 2026 Ducati Hypermotard V2 SP this week. Ducati calls it a complete rethink of the platform — their lightest ever twin-cylinder engine at 120 horsepower, and sharper than anything the Hypermotard line has ever produced.
+
+SIGN-OFF
+
+Singapore weather today: a high of around 31 degrees, warm and humid, with afternoon thunderstorms expected — par for the course in early May.
+
+Have a great Monday, Sean. May the Fourth be with you.
