@@ -4,34 +4,24 @@ Fun fact to start: May is the only month in which no sitting US President has ev
 
 Your calendar is clear today — enjoy the weekend.
 
-In Singapore, authorities are testing two residents for hantavirus after they were aboard the MV Hondius, a cruise ship linked to a deadly outbreak from Argentina. Both men are largely asymptomatic; risk to the public is assessed as low. Singapore Airlines also celebrated fifty years of uninterrupted Paris-Singapore service this week — a quiet milestone. And a new Citi report suggests upcoming CPF changes could channel billions into equities, worth watching for policy ripple effects.
+In Singapore, authorities are testing two residents for hantavirus after they were aboard the MV Hondius, a cruise ship linked to a deadly outbreak from Argentina. Both men are largely asymptomatic and risk to the public is assessed as low. Singapore Airlines also celebrated fifty years of uninterrupted Paris-Singapore service this week. And a new Citi report suggests upcoming CPF changes could channel billions into equities — worth watching for policy ripple effects.
 
-The dominant global story remains the Iran conflict, with a dangerous new development overnight: Iran has launched strikes against the UAE, putting the fragile ceasefire at serious risk of collapse. Oil is holding above a hundred dollars a barrel. The IEA has authorised a coordinated strategic reserve release, and Japan's Prime Minister has warned of enormous economic impact across Asia Pacific — language that resonates directly for BHP's regional business.
+The dominant global story remains the Iran conflict, with a dangerous new development overnight: Iran has launched strikes against the UAE, putting the fragile ceasefire at serious risk of collapse. Oil is holding above a hundred dollars a barrel, the IEA has authorised a coordinated strategic reserve release, and Japan's Prime Minister has warned of enormous economic impact across Asia Pacific — language that resonates directly for BHP's regional business. The UAE has also confirmed its formal withdrawal from OPEC, landing in an already destabilised market.
 
-The UAE has also confirmed its formal withdrawal from OPEC, landing in an already destabilised market.
+On Ukraine, Trump announced a three-day ceasefire this week. Talks continue but no breakthrough yet. Trump is also heading to Beijing next week for a summit with President Xi — the first major US-China leader meeting of the year. And Japan has passed historic legislation allowing arms sales to seventeen countries, a major break from its post-war pacifist stance.
 
-On Ukraine, Trump announced a three-day ceasefire this week. Talks continue but no breakthrough yet. And Trump is heading to Beijing next week for a summit with President Xi — the first major US-China leader meeting of the year.
+In Europe: Bulgaria confirms Rumen Radev as its new prime minister. In Germany, an armed bank robbery in Sinzig became a hostage standoff Friday — multiple suspects and hostages remain inside as police surround the building.
 
-Japan has passed historic legislation allowing arms sales to seventeen countries, a major break from its post-war pacifist stance driven by mounting regional security concerns.
+South Africa's Constitutional Court has set aside the 2022 parliamentary vote that shielded President Ramaphosa from scrutiny over the Phala Phala scandal — a significant legal rebuke likely to reopen accountability proceedings. In Australia, the Reserve Bank hiked rates twenty-five basis points to 4.35 percent — the third consecutive increase this year.
 
-In Europe: Bulgaria confirms Rumen Radev as its new prime minister.
+On technology: Google, Microsoft, and xAI have agreed to US government AI testing through the Department of Commerce — a notable step toward formal independent evaluation of commercial AI. Connecticut has also passed comprehensive AI legislation.
 
-In Germany, an armed bank robbery in the town of Sinzig became a hostage standoff Friday. Multiple suspects and hostages — including a cash-transport driver — remain inside as police surround the building.
+For your maker interest: ESPHome's 2026.4 release brings zero-copy sensor processing delivering up to 46 times faster updates, plus a new I2S audio architecture enabling Sonos-style multi-room audio on a standard ESP32. A genuinely impressive update.
 
-South Africa's Constitutional Court has set aside the 2022 parliamentary vote that shielded President Ramaphosa from scrutiny over the Phala Phala scandal — a significant legal rebuke likely to reopen accountability proceedings.
+In science: the interstellar comet 3I/ATLAS carries water with an isotopic signature never seen in our solar system before. First evidence that water chemistry differs fundamentally between star systems, with big implications for the search for life.
 
-In Australia, the Reserve Bank hiked rates twenty-five basis points to 4.35 percent — the third consecutive increase this year, with economists expecting a pause ahead.
+No BHP-specific announcement this morning. The company heads into the second half of FY26 with strong momentum.
 
-On technology: Google, Microsoft, and xAI have agreed to US government AI testing through the Department of Commerce — formal independent evaluation of commercial AI models. Connecticut has also passed comprehensive AI legislation.
+For motorcycles: Cycle World published its first ride of the 2026 Royal Enfield Classic 650. Early verdict: smooth, characterful, and more capable than the vintage looks suggest.
 
-And for your maker interest: ESPHome's 2026.4 release is generating real excitement — zero-copy sensor processing delivering up to 46 times faster updates, plus a new I2S audio architecture enabling Sonos-style multi-room audio on a standard ESP32. A genuinely impressive update.
-
-In science: the interstellar comet 3I/ATLAS — only the third confirmed visitor from beyond our solar system — carries water with an isotopic signature never seen in our solar system before. First evidence that water chemistry differs fundamentally between star systems, with big implications for the search for life.
-
-No BHP-specific announcement this morning. The company heads into the second half of FY26 with strong momentum from January's operational review.
-
-For motorcycles: Cycle World published its first ride of the 2026 Royal Enfield Classic 650 this week. Early verdict: smooth, characterful, and more capable than the vintage looks suggest.
-
-Heading into your Saturday in Singapore: high of 32 degrees, afternoon thundery showers in the forecast. If you're riding, the window is early.
-
-Have a great weekend Sean, ride safe out there.
+Saturday in Singapore: high of 32 degrees, afternoon thundery showers forecast. If you're riding, the window is early. Have a great weekend Sean, ride safe out there.
