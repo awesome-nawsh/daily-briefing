@@ -1,12 +1,25 @@
 [
   {
+    "date": "2026-05-10",
+    "stories": [
+      "Good morning Sean, it's Sunday the tenth of May 2026 — and it's Mother's Day, so I hope you get to connect with family today",
+      "Fun fact: on this date in 1994, Nelson Mandela was inaugurated as South Africa's first democratically elected president",
+      "One of the most extraordinary moments of the twentieth century",
+      "Your calendar is clear today — enjoy the Sunday",
+      "At noon today, all Singtel users will get a sudden 10-second alarm — that's the SG Alert emergency system test, so don't be alarmed",
+      "Also, two Singaporeans were among three hikers killed in an eruption of Mount Dukono in Indonesia's North Maluku province",
+      "The volcano was already on elevated alert when they entered the restricted zone",
+      "On to the big picture, and Iran remains the dominant story — but with significant new developments"
+    ]
+  },
+  {
     "date": "2026-05-09",
     "stories": [
       "Good morning Sean, it's Saturday, the ninth of May 2026",
       "Fun fact to start: May is the only month in which no sitting US President has ever died",
       "Every other month has claimed at least one",
       "So if you're running for the White House, May is your safest bet",
-      "Your calendar is clear today \u2014 enjoy the weekend",
+      "Your calendar is clear today — enjoy the weekend",
       "In Singapore, authorities are testing two residents for hantavirus after they were aboard the MV Hondius, a cruise ship linked to a deadly outbreak from Argentina",
       "Both men are largely asymptomatic and risk to the public is assessed as low",
       "Singapore Airlines also celebrated fifty years of uninterrupted Paris-Singapore service this week"
@@ -19,23 +32,10 @@
       "Fun fact to start: May is the only month in which no sitting US President has ever died",
       "Every other month has claimed at least one",
       "So if you're running for the White House, May is your safest bet",
-      "Your calendar is clear today \u2014 enjoy the weekend",
+      "Your calendar is clear today — enjoy the weekend",
       "In Singapore, authorities are testing two residents for hantavirus after they were aboard the MV Hondius, a cruise ship linked to a deadly outbreak from Argentina",
       "Both men are largely asymptomatic; risk to the public is assessed as low",
-      "Singapore Airlines also celebrated fifty years of uninterrupted Paris-Singapore service this week \u2014 a quiet milestone"
-    ]
-  },
-  {
-    "date": "2026-05-08",
-    "stories": [
-      "Good morning Sean, it's Friday, the eighth of May, 2026",
-      "Fun fact: on this day in 1945, Germany signed the unconditional surrender ending World War II in Europe \u00e2\u0080\u0094 still observed as Liberation Day there today, which is relevant to this morning's news",
-      "Looking at your Friday \u00e2\u0080\u0094 morning run from seven until half-eight, Triage Time eight to eight-thirty",
-      "Lunch blocked from noon, then L4 Open Time from one to twenty past three, and Weekly Close-out at half three to wrap the week",
-      "In Singapore, PM Lawrence Wong is in Cebu for the final day of the 48th ASEAN Summit, with regional leaders focused on the Iran crisis ripple effects and South China Sea tensions",
-      "Back home, a new survey shows 88 percent of Singaporeans expect higher inflation this year, despite actual CPI holding at just 1",
-      "COE premiums also edged up in May's first bidding round",
-      "The dominant story globally is still the US-Israel war on Iran"
+      "Singapore Airlines also celebrated fifty years of uninterrupted Paris-Singapore service this week — a quiet milestone"
     ]
   }
 ]
