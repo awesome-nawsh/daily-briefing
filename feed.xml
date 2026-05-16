@@ -580,5 +580,13 @@
     <pubDate>Sat, 16 May 2026 08:11:27 GMT</pubDate>
     <guid>https://awesome-nawsh.github.io/daily-briefing/episodes/2026-05-16-evening.mp3</guid>
   </item>
+
+  <item>
+    <title>Daily Briefing 2026-05-16</title>
+    <description>Sean's morning briefing for 2026-05-16</description>
+    <enclosure url="https://awesome-nawsh.github.io/daily-briefing/episodes/2026-05-16.mp3" type="audio/mpeg" length="0"/>
+    <pubDate>Sat, 16 May 2026 08:14:27 GMT</pubDate>
+    <guid>https://awesome-nawsh.github.io/daily-briefing/episodes/2026-05-16.mp3</guid>
+  </item>
 </channel>
 </rss>
