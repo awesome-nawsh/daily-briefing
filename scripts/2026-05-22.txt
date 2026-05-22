@@ -1,0 +1,21 @@
+Good morning Sean, it's Friday, the twenty-second of May.
+
+Let me kick off with a space fact that's equal parts beautiful and terrifying. On the exoplanet HD 189733b, sixty-four light-years away, it rains glass sideways. Temperatures so extreme they vaporise silicate rock into molten glass particles, then hurl them horizontally by supersonic winds. Space does not care about us at all.
+
+Your calendar is clear until the afternoon - a bi-monthly catch-up with Ajit on Webex at one o'clock, forty-five minutes. Plenty of focused morning time before that.
+
+On to Singapore. The Traffic Police have announced plans to use artificial intelligence to detect violations and automate issuing penalties - faster enforcement, fewer humans in the loop. Police also wrapped up a five-day island-wide anti-drug operation netting seventy-eight suspected offenders, including one sixteen-year-old student. And NTUC First Campus is rolling out new resources to help pre-school teachers better support children with different learning and developmental needs.
+
+Internationally, the US-Israel campaign against Iran is now eighty-three days in. Iran's closure of the Strait of Hormuz has triggered the largest oil supply shock since the 1970s. Markets responded well overnight: Asia-Pacific climbed and the Dow hit a record close on signs that US-Iran peace talks are progressing through Pakistani intermediaries. Tehran's insistence on keeping enriched uranium inside Iran remains the main sticking point. UNCTAD now projects global growth at 2.6% for 2026, down from 2.9% last year. The EU and the US have formally agreed to eliminate tariffs on all American industrial goods and provide preferential access for US agriculture - confirmed in Brussels today. Trump also raised the prospect of military intervention in Cuba after criminal charges against former leader Raul Castro. The UN has expressed grave concern over a new Taliban decree permitting child marriage in Afghanistan.
+
+Germany: the Bundestag voted to cut the air travel tax, dropping by two euros fifty per flight from July the first, backed by an unusual CDU, SPD, and AfD alliance. Two women were also found dead in a building collapse in Görlitz this week. In South Africa, a year to the day since Trump falsely accused South Africa of white genocide, he has now accepted credentials from SA's new ambassador Roelf Meyer. Quarterly crime data shows 5,181 killed between January and March, a 9.5% fall from the previous quarter, but still deeply alarming. In Australia, economists warn the Iran oil shock is pushing unemployment higher and fanning inflation - worth watching for BHP operations.
+
+Tech: Google I/O delivered Gemini Omni this week - a new fully multimodal model that takes any input and produces any output. They also released Gemini 3.5 Flash, which reportedly outperforms Gemini 3.1 Pro on coding benchmarks at much faster speeds. For your home automation: ESPHome 2026.4.0 just dropped - ESP32 devices now default to 240 megahertz up from 160, delivering roughly a third more API speed, 40 kilobytes of extra IRAM, and signed OTA. Worth flashing your nodes this weekend.
+
+On science: researchers have found that not all senescent zombie cells are harmful - some actually protect the body. That finding could reshape anti-aging medicine toward more targeted therapies.
+
+On BHP: Brandon Craig takes over as Chief Executive on July the first, six weeks away. He succeeds Mike Henry after a tenure that included record production at Escondida and WAIO. A new chapter begins as the company navigates elevated energy costs from the Hormuz disruption.
+
+On two wheels: the fifth-generation Ducati Monster Plus has landed with a new 890cc V-twin, shedding thirteen pounds off its predecessor, down to three hundred and eighty-six pounds total - Ducati's lightest Monster yet.
+
+Weather for Singapore today: afternoon thunderstorms very likely, high 32, low 27. Keep the umbrella handy. Have a great Friday Sean - enjoy the clear morning before your one o'clock with Ajit, and ride safe if you're on the bike.
