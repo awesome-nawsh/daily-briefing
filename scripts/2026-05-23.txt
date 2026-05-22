@@ -1,37 +1,25 @@
-Good morning Sean, it's Saturday, the twenty-third of May, 2026.
+Good morning Sean, it's Saturday the twenty-third of May 2026.
 
-Here's a quick fact to kick things off: on this date in 1995, Sun Microsystems unveiled Java to the world, built around the motto "Write once, run anywhere." Thirty-one years later it underpins most banking systems, the Android platform, and software that's been sent to space. Not bad for something named after a cup of coffee.
+On this day in 1995, Sun Microsystems unveiled Java - built on "Write once, run anywhere." Thirty-one years later it underpins most banking systems, Android, and software sent to space. Not bad for something named after coffee.
 
-Your day looks good. Morning run at six-thirty - perfect timing before the heat kicks in. Then it's a big one: BHP Fun Day at the Singapore Oceanarium from nine forty-five through to seven in the evening. You're out at RWS Sentosa, so pack sunscreen. Should be a brilliant day.
+Your day: morning run at six-thirty, then BHP Fun Day at the Singapore Oceanarium from nine forty-five to seven PM out at RWS Sentosa. Pack sunscreen - it should be a great one.
 
-On the climate front, Singapore's Ecosperity week has closed with real momentum. The government is pushing new frameworks for carbon offset funding to back clean energy projects across Asia, putting Singapore at the centre of regional climate finance.
+Singapore news: Ecosperity week wrapped with momentum. The government is pushing carbon offset frameworks to fund clean energy across Asia, cementing Singapore's role in regional climate finance. Senior Minister of State Koh Poh Koon has resigned from political office. PM Lawrence Wong's team remains solid.
 
-In politics, Senior Minister of State Koh Poh Koon has resigned from political office. Observers say PM Lawrence Wong's team remains solid, but it's a notable loss of experience.
+Globally, the US-Israel-Iran conflict dominates. Iran's Strait of Hormuz closure has caused what the IEA calls the greatest energy security challenge in history. Brent crude peaked at 126 dollars in March, up over 50 percent since February. Food prices across Asia are climbing sharply.
 
-Globally, the US-Israel-Iran conflict is the dominant story and it is not cooling. Iran's closure of the Strait of Hormuz has triggered what the IEA is calling the greatest global energy security challenge in history. Brent crude peaked at $126 a barrel in March, up more than 50 percent since February. Food prices across Asia are climbing sharply.
+In Washington, Republicans are struggling to pass legislation to pull Trump out of the Iran war. Trump also raised the prospect of military action against Cuba after criminal charges were filed against former leader Raul Castro. The UN has raised grave concern over a new Taliban law including child marriage provisions, and Gaza aid faces a serious funding shortfall.
 
-In Washington, Republicans are struggling to pass legislation compelling Trump to withdraw from the Iran war. Trump has also raised the possibility of military action against Cuba, a day after criminal charges were filed against former Cuban leader Raul Castro.
+Asia-Pacific markets are trading higher on ceasefire diplomacy, but regional growth for 2026 has been revised down to 3.1 percent due to the oil shock.
 
-The UN has raised grave concern over a new Taliban law in Afghanistan that includes provisions for child marriage. There is also a significant funding shortfall for Gaza aid, with humanitarian operations severely constrained.
+Germany marks Constitution Day tomorrow with fresh calls to ban the AfD. South Africa saw murders fall 9.5 percent last quarter, though fuel costs are squeezing farmers and xenophobic violence is rising. In Australia, Iran-linked inflation is pushing unemployment higher.
 
-On US-China: analysts flag inconsistencies in the official readouts from recent talks, particularly around agriculture, tariffs, and rare earth access. Asia-Pacific markets are trading higher as diplomats probe Iran ceasefire options, though regional growth for 2026 has been revised down to 3.1 percent because of the oil shock.
+On AI: the shift from hype to pragmatism is the big theme. OpenAI released GPT-5.5 and signed enterprise deals with BCG, McKinsey, Accenture and Capgemini. Runway, valued at 5.3 billion dollars, is betting the next AI leap comes from video and world models. For your home lab: ESPHome 2026.5.0 is out with automatic ESP-IDF installation on first run.
 
-In Germany, it is Constitution Day tomorrow, with the SPD renewing its push for a formal ban on the far-right AfD. The Bundestag has also voted to cut air travel taxes from July.
+In science, astronomers found a rocky planet orbiting farther from its star than the gas giants - the opposite of our solar system, forcing a rethink of planet formation.
 
-In South Africa, murders fell 9.5 percent in the fourth quarter of the last financial year. However, soaring fuel prices are threatening the agricultural sector, and xenophobic violence against foreign nationals in major cities is causing alarm.
+BHP has appointed Mark Vassella as Non-executive Director from June 1. He has 40-plus years in global steel and was CEO of BlueScope until early last year.
 
-In Australia, Iran-linked inflation is pushing unemployment higher, with the jobs market under real pressure.
+In bikes: Honda's CB1000GT is the talk of the week. First ride reviews love the power, solid electronics, and competitive price.
 
-On tech and AI: the industry is shifting from hype to pragmatism, deploying smaller models where they matter rather than chasing ever-larger systems. OpenAI released GPT-5.5 and announced enterprise partnerships with BCG, McKinsey, Accenture, and Capgemini. Runway, now valued at $5.3 billion, is betting the next AI breakthrough will come from video and world models, not text.
-
-For your home lab: ESPHome 2026.5.0 is out this month. ESP-IDF now installs automatically on first run, and the new ESPHome Device Builder is in public beta with a clean web interface.
-
-In science, astronomers have found a planetary system where a rocky planet orbits farther from its star than all the gas giants around it - the opposite of our own solar system, and it is forcing a rethink of planet formation theory.
-
-For BHP: the company has appointed Mark Vassella as a new Non-executive Director from June 1. He has over 40 years in the global steel industry and was CEO of BlueScope Steel until early last year.
-
-And in bikes: Honda's CB1000GT is the talk of the week. First ride reviews are glowing - strong power, solid electronics, and a price that undercuts what you'd expect from a flagship tourer. Honda is on the offensive.
-
-For your day at Sentosa: expect highs around 32 degrees, humid, with afternoon thunderstorms likely so keep an eye on the sky around lunchtime.
-
-Have a brilliant day Sean. Enjoy Fun Day with the team - and ride safe if you sneak out later!
+For Sentosa today: highs of 32 degrees, humid, afternoon thunderstorms likely. Have a brilliant day Sean - enjoy Fun Day with the team!
