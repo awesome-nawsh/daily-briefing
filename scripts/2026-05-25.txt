@@ -1,29 +1,33 @@
-Good morning Sean, it's Monday, the twenty-fifth of May. Quick trivia: today is Towel Day — the annual tribute to Douglas Adams and The Hitchhiker's Guide to the Galaxy. Fans worldwide carry a towel today, because as any galactic hitchhiker knows, it's the most massively useful thing you can have.
+Good morning Sean, it's Monday, the twenty-fifth of May.
 
-Your day is packed. Eight-thirty kicks off with the MIP E2E Supply Chain Delivery Performance call on WebEx — note it runs into your nine o'clock bi-monthly catch-up with Venus on Teams, so you may need to juggle. Then the Weekly Planning and Look-Ahead with Bob and Rehan from ten to eleven, followed by the Potash L2 Fortnightly MOP. A brief team movement discussion at one-thirty, and the afternoon finishes with a family vaccination session from two-thirty to five at Osler Health in Vista Exchange.
+Fun fact to start the week: today is Africa Day — marking the founding of the African Union in 1963. And as you'll hear, the politics around this year's celebrations are rather charged. Worth knowing too: May is the only month in the English calendar that cannot be abbreviated. January becomes Jan, February becomes Feb — but May simply refuses.
 
-Singapore news. Archaeologists have decided to finally excavate a mystery metal box buried in Adam Park — a Second World War battlefield site under study for over a decade. What's inside could fill significant gaps in records from the Malayan campaign. Worth following. Separately, almost one in ten north-east corridor commuters are now using free off-peak train rides under the MRT demand scheme — a quiet policy win for the government.
+In Singapore, nearly one in ten commuters along the north-east corridor have now taken up the free off-peak train ride scheme — an early sign the incentive is working to shift demand away from the peak.
 
-Now globally. The top story: Trump has declared the US-Iran peace deal is largely negotiated and an announcement is imminent. The deal unfolds in two phases. First, Iran clears mines from the Strait of Hormuz and the US lifts its port blockade with some sanctions waivers. Nuclear enrichment talks follow over thirty to sixty days, with a moratorium likely in the twelve to fifteen year range. If this crosses the line, global energy markets, shipping and fuel prices will react fast.
+Now to geopolitics. The dominant story remains Iran. Trump said over the weekend that a deal to reopen the Strait of Hormuz is largely negotiated and will be announced shortly — a first-phase memorandum of understanding, with broader talks within sixty days. Iran's Fars news agency pushed back sharply, calling his characterisation incomplete and inconsistent with reality. The conditional ceasefire is in place, yet the strait remains effectively closed. More than a billion barrels of oil have been lost since the closure, with an additional hundred million barrels lost every week it stays shut. Asia-Pacific markets opened cautiously this morning: Japan's Nikkei off one point eight percent and Australia's ASX two hundred down one point two.
 
-Russia launched one of its heaviest combined attacks in recent weeks overnight — fifty-five missiles and five hundred and forty-nine drones targeting Kyiv, injuring at least eighty-three people. Ukrainian commanders report their offensive operations now outnumber Russian assaults for the first time this year.
+The UAE confirmed this week its Hormuz bypass pipeline is nearly fifty percent complete — a structural shift in regional energy logistics once operational.
 
-The EU and US struck a deal eliminating tariffs on all American industrial goods. Japan's core inflation hit a four-year low, reducing Bank of Japan rate hike pressure and weighing on the yen. In Spain, thousands rallied in Madrid demanding Prime Minister Sanchez resign. And the US paused a major arms sale to Taiwan, though Trump signalled he may speak directly with Taiwan's leadership — a move drawing mixed interpretations across the region.
+In Gaza, the UN's four-billion-dollar humanitarian appeal is only twelve percent funded. Aid kitchens are now serving one million meals per day, down from one point eight million in February, with one in five families eating just once a day.
 
-Germany is warning of a sharp second-quarter economic slowdown as Middle East energy disruption feeds into costs and business confidence. South Africa got a genuine boost: Moody's upgraded the country's economic outlook from stable to positive, citing reform progress and fiscal discipline — a meaningful signal for mining sector confidence. In Australia, inflation climbed to four-point-six percent, the highest since September 2023, and the Reserve Bank delivered a third consecutive rate hike to four-point-three-five percent.
+Russia's Oreshnik intermediate-range missile deployment continues drawing alarm, with Moscow claiming it can reach targets across much of Europe. Ukraine reported successful strikes on Russian positions in two occupied regions over the weekend. In Cyprus, the centre-right DISY won parliamentary elections with the far-right placing third. And in Spain, thousands rallied in Madrid demanding Prime Minister Sanchez resign.
 
-Tech and AI. Google announced the biggest update to its search engine in twenty-five years — AI can now generate custom visuals, interactive graphics and mini-apps directly within search results. Search is shifting from a signpost to a destination.
+Now to Germany, South Africa and Australia. On Africa Day, the story from South Africa is that African ambassadors are threatening to boycott this year's official celebrations over rising tensions around undocumented migrants. Ghana's High Commissioner warned of diplomatic isolation risk, and eight hundred Ghanaian nationals seeking repatriation are expected to be processed today. A notable flashpoint for a continent that normally uses Africa Day to project unity.
 
-OpenAI launched a self-serve Ads Manager inside ChatGPT, targeting two-and-a-half billion dollars in ad revenue this year and a hundred billion annually by 2030. AI-powered advertising is now officially here.
+In Germany, Defence Minister Pistorius visited Brisbane to inspect Rheinmetall's Boxer tank production facility — a vivid sign of how deeply German defence manufacturing is now tied into Australia's regional military buildup.
 
-Maker note: ESPHome's 2026.4 update adds native IR control through small ESP-powered IR proxy devices — letting Home Assistant control virtually any legacy infrared appliance. A genuinely practical upgrade if you have been waiting to automate older IR gear.
+In Australia, the CGT backlash is intensifying. Gina Rinehart is calling Albanese's proposed changes an investment killer, the government is signalling tweaks, and the resource sector is piling on. Direct implications for mining investment appetite.
 
-Science. Canadian geologists discovered ancient underground rocks naturally producing hydrogen gas — and in large quantities. Naturally occurring hydrogen at scale could be a real clean energy breakthrough. Early estimates suggest deposits are significantly larger than previously imagined.
+For tech and AI: first, Google is rolling out what it calls the biggest Search update in twenty-five years — AI-generated interactive graphics and mini-apps built directly into results pages, fundamentally changing how information gets found. Second, Anthropic has reportedly committed over two hundred billion dollars toward cloud infrastructure and chips, primarily with Google Cloud — the scale of capital now required to stay at the AI frontier. Third, AI models can now project one hundred years of climate patterns in just twenty-five hours, a capability that could significantly accelerate climate research and policy planning.
 
-BHP update. BofA downgraded BHP to Neutral and UBS issued a Hold this week, citing Middle East energy cost headwinds and softer China demand signals. Worth monitoring as we head toward reporting season.
+On the maker front: ESPHome's twenty twenty-six point three release adds high-fidelity I2S output, turning twenty-dollar ESP32 boards into synchronized multi-room audio nodes. Sonos-style, DIY price.
 
-Motorcycles. Norton revealed the 2026 Manx R — a new supersport flagship with a 1,200cc V4 producing 209 horsepower, made in Solihull, seven colour variants. If they deliver, it is the most exciting thing from the British motorcycle revival yet.
+For science: MIT researchers identified cysteine — found in meat, dairy, beans and nuts — as a potent trigger for intestinal repair. The finding could reshape treatment for inflammatory bowel conditions over the coming decade.
 
-Finally, Singapore weather. Hot and humid today — high of around thirty-three degrees, with the usual chance of afternoon showers or thunderstorms.
+For BHP: the company this week released its twenty twenty-six to twenty-thirty Chile Indigenous Peoples Plan — a formal roadmap for engagement with communities across its Chilean copper operations.
 
-Have a great Monday Sean — and don't forget your towel.
+And for the motorcycles: Ducati confirmed the new DesertX swaps its Testastretta for a fresh eight-ninety-cc V-Twin with a claimed one hundred and ten horsepower. First ride reviews are positive.
+
+Singapore weather today: a high of thirty-three to thirty-four degrees, afternoon thundery showers expected, and possible Sumatra squalls in the early morning with gusty winds.
+
+Have a great week, Sean — and since it is Africa Day, spare a thought for the continent that keeps the global metals economy running. Ride safe.
