@@ -1,12 +1,25 @@
 [
   {
+    "date": "2026-05-26",
+    "stories": [
+      "Good morning Sean, it's Tuesday, the twenty-sixth of May",
+      "Fun fact: on this date in 1896 - a hundred and thirty years ago today - Charles Dow published the Dow Jones Industrial Average for the very first time",
+      "Twelve stocks, opening value of forty point nine four",
+      "Nine o'clock is the Weekly Integrations PwC meeting on Teams, then bi-monthly catch-up with Rahul at nine-thirty",
+      "Ten to eleven is the GBS T&AS Monthly MOP and MIP",
+      "Deb joins you for thirty minutes at eleven, Tax Diagnostic at eleven-thirty, then lunch with Wilfred in the lobby of Tower Two at midday",
+      "On Singapore: construction at Chong Pang City resumes today after three weeks paused - a metal bar had fallen onto a nearby HDB roof",
+      "Singapore is also quietly rezoning Lim Chu Kang agricultural land for defence while shifting adjacent military land toward farming"
+    ]
+  },
+  {
     "date": "2026-05-25-evening",
     "stories": [
       "Good evening Sean, it's Monday evening, the twenty-fifth of May, 2026",
-      "Fun fact to start the evening: today is Geek Pride Day — chosen because May twenty-fifth marks the anniversary of the original Star Wars release in 1977",
+      "Fun fact to start the evening: today is Geek Pride Day â chosen because May twenty-fifth marks the anniversary of the original Star Wars release in 1977",
       "The galaxy far, far away is forty-nine years old and still going strong",
-      "Looking ahead to tomorrow — you have Big Rock Time from two in the afternoon until half past five, a solid deep-work block",
-      "Then late in the evening, Safe Start at eleven on Webex for thirty minutes — the cross-timezone check-in with the Canadian team",
+      "Looking ahead to tomorrow â you have Big Rock Time from two in the afternoon until half past five, a solid deep-work block",
+      "Then late in the evening, Safe Start at eleven on Webex for thirty minutes â the cross-timezone check-in with the Canadian team",
       "On the Singapore front today, some encouraging economic data",
       "April inflation came in lower than expected at one point eight percent, and first-quarter GDP was revised sharply upward to six percent, from an earlier estimate of four point six",
       "The Monetary Authority expects full-year inflation to stay between one point five and two point five percent"
@@ -16,39 +29,13 @@
     "date": "2026-05-25",
     "stories": [
       "Good morning Sean, it's Monday, the twenty-fifth of May",
-      "Fun fact to start the week: today is Africa Day — marking the founding of the African Union in 1963",
+      "Fun fact to start the week: today is Africa Day â marking the founding of the African Union in 1963",
       "And as you'll hear, the politics around this year's celebrations are rather charged",
       "Worth knowing too: May is the only month in the English calendar that cannot be abbreviated",
-      "January becomes Jan, February becomes Feb — but May simply refuses",
+      "January becomes Jan, February becomes Feb â but May simply refuses",
       "Iran's Fars news agency pushed back sharply, calling his characterisation incomplete and inconsistent with reality",
       "The conditional ceasefire is in place, yet the strait remains effectively closed",
       "More than a billion barrels of oil have been lost since the closure, with an additional hundred million barrels lost every week it stays shut"
-    ]
-  },
-  {
-    "date": "2026-05-25",
-    "stories": [
-      "Good morning Sean, it's Monday, the twenty-fifth of May",
-      "Quick trivia: today is Towel Day — the annual tribute to Douglas Adams and The Hitchhiker's Guide to the Galaxy",
-      "Fans worldwide carry a towel today, because as any galactic hitchhiker knows, it's the most massively useful thing you can have",
-      "Eight-thirty kicks off with the MIP E2E Supply Chain Delivery Performance call on WebEx — note it runs into your nine o'clock bi-monthly catch-up with Venus on Teams, so you may need to juggle",
-      "Then the Weekly Planning and Look-Ahead with Bob and Rehan from ten to eleven, followed by the Potash L2 Fortnightly MOP",
-      "A brief team movement discussion at one-thirty, and the afternoon finishes with a family vaccination session from two-thirty to five at Osler Health in Vista Exchange",
-      "Archaeologists have decided to finally excavate a mystery metal box buried in Adam Park — a Second World War battlefield site under study for over a decade",
-      "What's inside could fill significant gaps in records from the Malayan campaign"
-    ]
-  },
-  {
-    "date": "2026-05-24-evening",
-    "stories": [
-      "Good evening Sean, it is Sunday evening, the twenty-fourth of May 2026",
-      "Quick fun fact: \"Mayday\" - the international distress call - has nothing to do with the month of May",
-      "It comes from the French phrase \"M'aidez,\" meaning help me",
-      "Every time a pilot declares an emergency, they are essentially shouting French at air traffic control",
-      "Your Weekly Planning and Look-Ahead session with Bob and Rehan runs ten to eleven in the morning, then you have your thirty-minute catch-up with Pat at two in the afternoon",
-      "Asia Pacific markets closed higher today on growing optimism that the Iran conflict may be moving toward resolution, which cooled oil prices",
-      "Japan's Nikkei led the gains - up three and a half percent - after April exports surged fourteen point eight percent year-on-year, the fastest pace since January, driven largely by semiconductors",
-      "South Korea also confirmed it will launch twenty-four hour dollar-won spot trading from the sixth of July"
     ]
   }
 ]
