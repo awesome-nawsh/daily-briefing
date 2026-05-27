@@ -1,39 +1,43 @@
 Good morning Sean, it's Wednesday, the twenty-seventh of May, 2026.
 
-Fun fact: eighty-nine years ago today, the Golden Gate Bridge opened to pedestrians for the very first time. Four years and twenty-five million dollars to build. Cars followed the next day. One of the great engineering achievements of the twentieth century.
+Quick fun fact to kick things off: today is the one hundred and nineteenth birthday of Rachel Carson — the marine biologist who published Silent Spring in 1962, documenting how pesticides were silently wiping out bird populations and ecosystems across America. The chemical industry mounted a full-scale effort to discredit her before the book even hit shelves. It failed spectacularly. Silent Spring led directly to the US ban on DDT and is widely credited with launching the modern environmental movement. Not a bad legacy for a marine biologist from Pennsylvania.
 
-Your calendar is clear today, so it's all yours.
+On Singapore — exciting news for music fans: BTS is returning to the city as a complete group for the first time in seven years, with four shows confirmed at the National Stadium. Tickets will be fiercely contested, so fair warning if you have any ARMYs in the office. Also locally, Canopy Hawkers Group has been appointed to take over Yishun Park Hawker Centre from July twentieth — hawker centre handovers always generate their share of community debate, so one to watch.
 
-On Singapore — a disturbing incident in Choa Chu Kang last night. A woman in her twenties was allegedly stabbed to death at an HDB lift lobby by a man who was reportedly her former partner. He then jumped from the eighteenth floor, landing on a rubbish container. He survived with serious injuries. Police are investigating.
+Eight stories from the global stage today.
 
-Globally, a few big stories.
+The US-Iran conflict, now three months old, has entered what analysts are calling a blockade phase. Washington is tightening restrictions on Iranian ports while Tehran keeps threatening Hormuz shipping. Oil remains above a hundred dollars a barrel, the IEA has released strategic reserves, and the energy disruption is reshaping trade flows that matter directly to BHP operations.
 
-The Trump administration has proposed requiring all federal workers to sign non-disclosure agreements. The draft, published in the Federal Register, defines confidential government information extremely broadly, covering internal operations, personnel matters, and pre-decisional material. Workers who refuse to sign could be dismissed. Civil service unions are calling it a purge of career officials.
+All eyes are on Beijing this week, where President Trump and President Xi are meeting — the first major face-to-face since the Iran war began and trade tensions escalated. The backdrop is volatile: elevated oil, a fragile Middle East, and fraying economic ties. Every signal from this summit will move markets.
 
-In Europe, a heat dome is shattering May temperature records across the continent. The UK hit thirty-five degrees Celsius yesterday, breaking a record set just the day before. France had its hottest May day on record. Seven deaths have been linked to the heat in France alone. Scientists are describing temperatures as mind-bogglingly crazy for this time of year.
+The UAE has exited OPEC, defying Saudi energy dominance in what could be one of the most significant fractures inside the bloc in years. It's early days, but the implications for global oil pricing power are significant.
 
-Also in Europe — a tragic accident in Belgium. A train struck a school minibus at a level crossing in Buggenhout on Tuesday, killing at least four people, including two children. The crossing barrier was closed and the red light was showing at the time.
+Russia launched one of its largest combined drone and missile attacks on Kyiv since the war began — hundreds of projectiles fired at the Ukrainian capital overnight. Moscow framed it as retaliation for a Ukrainian strike on Luhansk.
 
-In Serbia, tens of thousands clashed with riot police in Belgrade over the weekend in the latest surge of a student-led movement demanding early elections and an end to President Vucic's grip on power. The movement began after a deadly railway station collapse in Novi Sad eighteen months ago.
+President Trump confirmed five thousand US troops are heading to Poland, deepening confusion about Washington's military posture in Europe at a time when NATO allies are already nervous about US reliability.
 
-In Germany, South Africa, and Australia:
+The EU struck a trade deal with the United States. Details are still emerging, but it's a meaningful diplomatic achievement that European markets will welcome after months of uncertainty.
 
-Germany is preparing to join a British-led mission to secure shipping through the Strait of Hormuz, contributing ships and aircraft. Chancellor Merz condemned renewed Iranian airstrikes against the UAE and agreed with Trump that Iran must come to the negotiating table.
+Western Europe is under a record late-May heat dome — temperatures running up to eleven degrees Celsius above normal across France, Spain, and the United Kingdom. Health authorities have issued warnings as the heat is expected to persist through the week.
 
-In South Africa, President Ramaphosa has filed a court application in the Western Cape High Court seeking to set aside the Section 89 panel report — which assessed grounds for his removal from office. A significant constitutional move.
+And in Brussels, Congolese demonstrators marched outside EU institutions, condemning what they describe as European complicity in the ongoing violence in eastern DRC.
 
-In Australia, the first IS-linked repatriation flights in years have landed, with women and children touching down in Melbourne and Sydney. Prime Minister Albanese says anyone who has broken the law will face consequences.
+On Germany, South Africa, and Australia.
 
-On tech — ESPHome twenty-twenty-six point five dropped yesterday, and it's a big one. The headline is a beta of the new ESPHome Device Builder — a proper web-based config editor replacing the old dashboard. Bulk actions, distributed builds, out-of-sync detection. Plus firmware performance improvements and expanded e-paper display support. Worth updating your nodes.
+Berlin is firmly resisting the European coalition calling for tougher action on Chinese overcapacity. France, Spain, Italy, and the Netherlands co-signed a paper urging the EU to crack down on Chinese dumping — Germany was conspicuously absent. Trade Minister Katherina Reiche is in Beijing this week, underlining how much Berlin is prioritising its economic relationship with China over alignment with EU partners.
 
-On broader AI: Anthropic has quadrupled its business market share since last year, now outpacing OpenAI among enterprise clients, and is reportedly in talks for a funding round valuing the company at around nine-hundred-and-fifty billion dollars.
+In South Africa, Africa Day was marked by both celebration and friction. ANC Secretary-General Mbalula made headlines warning that undocumented immigration poses a national security risk — triggering counter-protests in Cape Town in solidarity with migrants. Separately, a US Africa Command general flagged growing Mexican cartel activity in South Africa, warning it is fuelling terrorism and could lead to a rupture if not addressed.
 
-In science — a brand-new species of octopus has been confirmed, discovered nearly six thousand feet below the surface near the Galapagos Islands. Tiny, blue, bioluminescent. The deep ocean still has surprises.
+In Australia, flights carrying women and children formerly linked to the Islamic State have landed in Melbourne and Sydney as the government continues repatriating citizens stranded in Syrian camps. Prime Minister Albanese confirmed the returns and made clear that any laws broken will be prosecuted.
 
-On BHP — the company has resolved its iron ore contract pricing dispute with a major Chinese state-backed entity, a meaningful reset for Australian iron ore flows.
+Three from the tech world. Anthropic is reportedly seeking a funding round that would put its valuation close to nine hundred and fifty billion dollars — approaching a trillion. Business customers increasingly prefer Claude over ChatGPT, with Anthropic having quadrupled its enterprise market share over the past year. Meanwhile, Intuit confirmed over three thousand layoffs — seventeen percent of its workforce — as it pivots resources hard toward AI across TurboTax and QuickBooks. And a quick one for the makers: ESPHome's 2026.4 update delivered a forty-six times faster sensor update cycle through a new zero-copy architecture. If you have ESP32 devices at home, the upgrade is worth pushing.
 
-And motorcycles — Norton has unveiled the Manx R, a new supersport flagship with a twelve-hundred-cc V4 producing two-hundred-and-nine horsepower. Limited production. Norton's comeback keeps getting more serious.
+On science — researchers exploring nearly six thousand feet beneath the surface near the Galapagos Islands have discovered a brand-new species of octopus. Small, blue, and completely unknown to science until now. The deep ocean keeps delivering.
 
-To close — Singapore today: highs around thirty-three to thirty-four degrees, afternoon thundery showers likely, with possible Sumatra squalls in the pre-dawn hours.
+On BHP — Bloomberg reported this week that the company has pulled back from certain decarbonisation projects. No formal statement, but it reflects the continuing tension between long-term emissions commitments and near-term capital discipline in a volatile commodity environment.
 
-Have a great day, Sean. The day is yours.
+In motorcycles — the 2026 Ducati Monster Plus has landed in its fifth generation. A new 890cc V2 engine, thirteen pounds lighter than the outgoing unit, producing a hundred and ten horsepower. First ride reviews are landing positively — they're calling it the best Monster yet.
+
+For Singapore today — warm and humid, highs around thirty-three to thirty-four degrees Celsius, with a good chance of afternoon thundery showers. Sumatra squalls are possible in the early morning hours, so watch for gusty conditions on the ride in.
+
+Have a great Wednesday, Sean — and ride safe if you're on the bike.
