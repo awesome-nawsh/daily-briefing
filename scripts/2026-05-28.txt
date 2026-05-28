@@ -1,35 +1,23 @@
-Good morning Sean, it's Thursday the twenty-eighth of May, 2026. You've got a long weekend kicking off today with a stay at the Westin Desaru — well earned.
+Good morning Sean, it's Thursday, the twenty-eighth of May.
 
-Fun fact: May is the only month that cannot be abbreviated. Jan, Feb, Mar — but May stands alone. The Anglo-Saxons called it the Month of Three Milkings because spring grass made cows so productive they needed milking three times daily.
+Fun fact: all clownfish are born male. Every single one. They only become female when the dominant female in the group dies — which means Nemo's dad would technically have become Nemo's mum. Nature is wonderfully strange.
 
-Singapore's Q1 GDP has been revised sharply higher to six percent, up from 4.6 in the advance estimate, driven by financial services and manufacturing. April inflation came in below forecast at 1.8 percent versus an expected two percent, with core at 1.4. Good numbers — the Monetary Authority has room to breathe.
+Your long weekend starts now. You have a stay at the Westin Desaru Coast Resort in Bandar Penawar through to Monday the first of June. Nothing else on the calendar. Well earned.
 
-Geopolitics is fast-moving. Trump and Xi meet in Beijing this week, with Iran's disruption of global energy markets adding real strain to the US-China relationship. Watch for trade and Taiwan signals.
+On Singapore. GastroBeats — the food and music festival — is making a comeback in June. And the Seng Choon egg farm is set to relocate after Lim Chu Kang land-use changes were announced, with four other farms also affected as Singapore reconfigures that agricultural corridor.
 
-On the Strait of Hormuz: the situation is escalating. Lufthansa has cut Middle East flights, European governments are planning for fuel shortages, and markets are volatile. Japan's Nikkei 225 briefly topped sixty-five thousand for the first time on reopening hopes before pulling back. Developing economies are feeling the squeeze most through rising food and energy costs.
+Globally, the dominant story is the US-Israeli war on Iran, now three months in. Iran's Strait of Hormuz closure has pushed oil past one hundred dollars a barrel — the biggest supply shock since the seventies — and the IEA has triggered an emergency release of strategic petroleum reserves. Ceasefire talks are inching forward, but the White House flatly denied an Iranian state TV report claiming a draft agreement was in place, calling it a complete fabrication. Markets are reacting unevenly: Japan's Nikkei briefly topped sixty-five thousand for the first time on Hormuz reopening hopes; South Korea's Kospi also hit a record high. Russia-Ukraine peace talks under US brokerage continue without a breakthrough. The EU has separately escalated with Moscow — Brussels called Russia's threats to foreign diplomats unacceptable, and Germany summoned the Russian Ambassador. On a longer timeline, analysts note China is quietly building its sanction-busting infrastructure — not for Iran, they say, but for any future Taiwan scenario.
 
-Russia formally urged diplomatic staff in Kyiv to evacuate as soon as possible. Germany, France, Spain and Poland summoned Russian ambassadors to protest what they called deliberate intimidation. Tensions on Europe's eastern flank are rising.
+Germany unveiled its World Cup squad this week, Neuer in goal with a blend of veterans and emerging talent. Berlin is also moving ahead with legislation requiring men and women over forty-five to do regular military exercises. In South Africa, Johannesburg's power debt crisis has a new proposed fix: ring-fencing city revenue and creating a direct Eskom to City Power partnership. In Australia, Labor is overhauling jobseeker welfare — the most significant reform in thirty years — easing mutual obligations and restructuring employment support.
 
-Russia is deepening Central Asia ties as its European leverage weakens — analysts see it as Moscow shoring up its sphere of influence.
+In tech and AI. Google released Gemma 4, an open reasoning model under the Apache 2.0 licence. Meta announced eight thousand job cuts — ten percent of its workforce — as part of an AI restructuring, with seven thousand more staff reassigned to AI teams. The big platforms are reorganising fast. And ESPHome 2026.5.0 just dropped with a beta of the new Device Builder web app: proper configuration editor, firmware queues, bulk actions, distributed builds. Worth updating.
 
-In Belgium, a train struck a school minibus in Buggenhout on Tuesday, killing four including two children.
+Science. NASA's Webb Telescope characterised a planet seven hundred light-years away with a precise daily weather pattern: silicate clouds form each morning and fully dissolve by nightfall. One of the most detailed exoplanet weather observations ever recorded.
 
-SoftBank added sixty billion dollars to its market cap in two days on AI optimism — a remarkable surge.
+And BHP. The Guardian and Four Corners published leaked internal documents showing BHP war-gamed delays to its decarbonisation commitments, and recently bought over five hundred million dollars in new diesel trucks for Jimblebar — despite earlier plans to electrify from 2027. Difficult optics. Expect scrutiny.
 
-Germany adopted new federal roadmaps on AI, quantum computing and cancer treatment as national strategic priorities.
+Motorcycles. Honda launched the WN7 — its first large-displacement electric bike — from January at around seventy-five hundred euros. Positioning it as a mainstream option, not a niche play.
 
-In South Africa, Nkosazana Dlamini-Zuma warned of escalating xenophobia, with Ghanaian nationals reportedly preparing to leave amid rising tensions. Johannesburg is exploring a direct Eskom and City Power partnership to address a multi-billion-rand electricity debt.
+Finally the weather. You're in Desaru today, but back in Singapore it's thirty-two degrees, humidity seventy-three percent, under five percent chance of rain. Beautiful conditions on both sides of the Causeway.
 
-In Australia, Labor is overhauling jobseeker mutual obligations in a major employment reform. Separately, millions of Australians will see energy bills fall as record renewable uptake locks in price cuts from mid-year.
-
-On tech: Google's replacement of Search with AI agents at I/O 2026 is already driving a backlash — DuckDuckGo app installs jumped thirty percent as users resist being force-fed AI results. Apple's iOS 27 will let users choose which AI model powers their iPhone — a major step toward an open platform. And ESPHome's 2026.4 update brings sensor updates up to forty-six times faster through zero-copy architecture — a solid upgrade for home automation nodes.
-
-Science: researchers detected the most energetic neutrino ever recorded, a deep-space particle that slammed through the Mediterranean Sea. Origin unknown — possibly a black hole, possibly stranger.
-
-BHP has halted decarbonisation at the Jimblebar iron ore site in Western Australia — a solar and battery project with board approval has been abandoned, and a proposed five-hundred-megawatt renewable system postponed. BHP cited economics; expect scrutiny from sustainability investors.
-
-Motorcycles: Ducati's Monster enters its fifth generation with an 890cc V-twin, thirteen pounds lighter, one-ten horsepower, starting under fourteen thousand dollars. Early reviews are strong.
-
-Singapore today: thirty-three degrees, afternoon thundery showers expected, possible Sumatra squalls before dawn.
-
-Have a brilliant long weekend at Desaru, Sean. Back on Monday the second. If the bike makes the trip — ride safe.
+Have a brilliant long weekend Sean. Enjoy every minute of Desaru — back on Monday.
