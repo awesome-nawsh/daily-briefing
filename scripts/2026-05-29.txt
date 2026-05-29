@@ -1,43 +1,33 @@
 Good morning Sean, it's Friday, the twenty-ninth of May, 2026.
 
-On this day in 1953 — exactly 73 years ago — Edmund Hillary and Tenzing Norgay became the first humans to stand on the summit of Everest. A fine note to start the day on.
+Here's one to kick off your Friday: bottlenose dolphins have names for themselves — unique whistles that other dolphins use to address them directly. They're one of the only non-human animals confirmed to call each other by name.
 
-Your calendar is clear today. No meetings, no calls — the day is yours.
+In Singapore, fresh economic data landed overnight. April inflation came in at 1.8% — below the 2% analysts expected — and that follows this week's upward GDP revision to 6% for Q1. With inflation undershooting, there's room for MAS to ease. Also happening right now: the 23rd Shangri-La Dialogue is well underway, with Vietnam's President To Lam having delivered the opening keynote this morning. Iran, great-power competition, and Indo-Pacific security are dominating the room — exactly the agenda you'd expect when 44 countries gather in the middle of an active Gulf war.
 
-In Singapore, the 23rd Shangri-La Dialogue gets underway this morning at the Shangri-La Hotel, running through to Sunday. Forty-four countries, 54 ministerial-level delegates, and over 42 chiefs of defence forces. Vietnam's President Tô Lâm delivers the keynote — expect great-power competition, Iran, and Indo-Pacific security to dominate.
+The big overnight headline: Trump confirmed on Thursday that the Iran deal is, in his words, largely negotiated. The framework extends the ceasefire sixty days and de-mines the Strait of Hormuz. Markets aren't waiting: Japan's Nikkei gained 0.88 percent, Korea's Kospi jumped 2.7 percent, and the ASX is up 0.72 percent this morning. Oil prices are softening on reopening hopes.
 
-On the economy, Singapore revised first-quarter GDP growth to 6 percent — up from the 4.6 advance estimate. A meaningful beat. And a new survey finds more Singaporeans are using Singlish at work, including in professional settings. Bosses seem unbothered. Lah.
+On the trade front, EU member states formally backed the EU-US trade deal this week, clearing the path for a European Parliament vote in mid-June. It locks in 15 percent tariffs on European exports, with some US goods at zero. Trump has threatened 25 percent tariffs on European cars if it isn't ratified by July 4th.
 
-Now to the big story. US and Iranian negotiators reached a tentative 60-day ceasefire extension overnight. Terms include unrestricted Hormuz shipping, Iran removing all mines within 30 days, sanctions waivers for oil sales, and Iran committing not to pursue nuclear weapons. But Trump has not yet signed off. And both sides traded strikes overnight, each accusing the other of violations. The deal exists on paper — not yet in practice. Watch this closely today.
+Western Europe is sweltering through a late-May heat event — temperatures in France, the UK and Spain running up to 11 degrees above seasonal norms, with health warnings issued across the continent.
 
-Trump and Xi are meeting in Beijing this week, with AI and semiconductors as the central battleground. Markets are watching.
+In Spain, police entered the ruling party's headquarters in Madrid as corruption investigations circle Prime Minister Sanchez's government.
 
-Israel struck Lebanon overnight — at least 31 killed. The Gaza humanitarian appeal remains just 12 percent funded, with hundreds of millions of dollars short of what's needed.
+And from Beijing: China has quietly imposed travel restrictions on AI researchers, startup founders, and tech executives — requiring government approval before they can leave the country. A significant escalation in the race for AI talent.
 
-On Ukraine, peace talks continue through multiple rounds without a breakthrough. And in Spain, police entered the governing party's headquarters in Madrid as corruption cases circle Prime Minister Sanchez's government.
+For Germany, South Africa, and Australia. Germany has officially halved its 2026 growth forecast, citing the Iran war's energy shock. High energy prices are doing real damage to industrial output.
 
-Asia-Pacific markets fell Thursday on fresh Iran strikes. Japan's Nikkei dropped to around 64,700, Australia's ASX 200 fell 1.4 percent. Tokyo inflation data is due this morning.
+South Africa has two difficult stories in parallel. The Department of Correctional Services has acknowledged losing track of nearly 28,000 absconded parolees — including convicted murderers and rapists — exposing serious systemic failures. At the same time, protest groups have issued a June 30 ultimatum for undocumented foreigners to leave. President Ramaphosa is heading to the African Union to propose a continental migration compact.
 
-In South Africa, producer inflation hit a record 3 percent month-on-month in April — the biggest single monthly rise on record, driven by fertiliser and energy costs from the Iran war. The anti-immigration group March and March has confirmed it will proceed with a national shutdown on June 30, despite government warnings.
+From Australia, federal authorities have charged a woman with ISIL-related offences after she returned from Syria. She's due in a Melbourne court today.
 
-In Germany, Berlin is hosting Medic Quadriga 2026 — a large-scale NATO medical readiness exercise. The defence minister is separately pushing for more resilient arms supply chains.
+In tech: both CME Group and China's Shanghai Futures Exchange are designing derivatives contracts for AI compute and GPU rentals — AI capacity becoming a tradeable commodity, like oil or gold. And Anthropic has quadrupled its enterprise market share in twelve months, now surpassing OpenAI among business customers. Fewer controversies, more practical tools — it's working.
 
-In Australia, Treasurer Chalmers has introduced CGT and negative gearing changes to parliament — significant housing policy news for BHP's home market.
+For science: NASA's James Webb Space Telescope has found a planet 700 light-years away with a daily weather cycle unlike anything in our solar system. Mineral clouds made of vaporised rock form every morning and burn off by nightfall — a planetary atmosphere cycling through liquid rock, every day. Puts our thunderstorms in perspective.
 
-Three sharp tech stories. First — the internet is being rebuilt for machines. AWS and Cloudflare are rearchitecting cloud infrastructure for AI agent traffic, with AWS launching a new vector database for agentic workloads.
+BHP this week wound back its decarbonisation plans in Western Australia. The solar and battery project at Jimblebar has been halted, and a proposed 500-megawatt renewable system postponed. Incoming CEO Brandon Craig is signalling capital discipline over green optics as the company reorients toward copper growth.
 
-Second — AI token futures are coming. CME Group and the Intercontinental Exchange are developing GPU rental futures contracts. You'll soon trade AI compute like you trade oil.
+And for motorcycles: Ducati has revealed the fifth-generation Monster Plus — a new 890cc V-twin, 13 pounds lighter than the outgoing model, making 110 horsepower. Cleaner lines, new frame. One for the shortlist.
 
-Third — DuckDuckGo installs are up 30 percent since Google replaced traditional search with AI agents. A quiet signal that trust in AI-first interfaces isn't yet a given.
+Weather in Singapore today: morning thunderstorms, a maximum of 32 degrees, heat index touching 41. Take the umbrella.
 
-Maker note: ESPHome 2026.5.0 landed this week with a proper Device Builder dashboard — job queues, bulk actions, cross-config search. Worth a look this weekend.
-
-For science — NASA's Nancy Grace Roman Space Telescope is targeting September 2026. Think Hubble's resolution with a field of view 100 times larger, mapping dark energy and thousands of exoplanets. One to watch.
-
-On BHP — the company has quietly shelved billions in green energy projects at its Western Australian iron ore operations. No formal announcement. Expect ESG scrutiny at the next investor day.
-
-For motorcycles — the fifth-generation Ducati Monster Plus is here. New 890cc V2, 110 horsepower, 13 pounds lighter. Early reviews say it's the sharpest Monster yet.
-
-Singapore today: high of 32 degrees, low of 26, chance of afternoon showers. Keep the umbrella close.
-
-Have a great Friday, SeaT/With the Shangri-La Dialogue in town and the Iran deal on a knife-edge, it's a day worth watching. Ride safe if you get out on the bike this weekend.
+Happy Friday Sean. Long weekend ahead — enjoy it, and ride safe.
