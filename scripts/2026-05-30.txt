@@ -1,37 +1,33 @@
 Good morning Sean, it's Saturday, the thirtieth of May, 2026.
 
-Fun one to start: researchers taking a walk through a cemetery in Ithaca, New York stumbled across what may be the largest ground-nesting bee colony ever recorded — roughly five and a half million bees just beneath the soil. Native sweat bees, completely harmless, but extraordinary in scale.
+Fun fact: after Napoleon's victory at Friedland in 1807, he organised a celebratory rabbit hunt. The problem — his staff used tame rabbits instead of wild ones. When released, instead of bolting, they swarmed straight toward Napoleon by the hundreds. The Emperor of France had to retreat to his carriage. Defeated by domesticated rabbits.
 
-Your calendar's clear today — it's Saturday, the day is yours.
+Singapore first. The Shangri-La Dialogue wraps up today — forty-four countries, fifty-plus ministers, and forty-two chiefs of defence closing three days of sessions on Indo-Pacific security, Iran, and great-power competition. President Ramos-Horta delivers his special address this morning; President Tharman hosts the closing reception at the Istana tonight.
 
-Singapore. The Shangri-La Dialogue is into day two. Today, Timor-Leste's President Ramos-Horta delivers a Special Address, and President Tharman hosts a reception at the Istana tonight. Forty-four countries, with sessions focused on Indo-Pacific security, Iran, and great-power competition. The dialogue wraps tomorrow.
+On the economic side: April inflation came in at 1.8%, below the 2% forecast, with core at 1.4%. First-quarter GDP has been revised up sharply to 6%, from the initial 4.6%. Strong numbers given the global energy disruption happening elsewhere.
 
-Weather: warm and humid, thirty-three to thirty-five degrees, afternoon thundery showers across parts of the island. Keep an umbrella handy.
+Globally, the Strait of Hormuz has become a full-scale economic shock. Brent crude is near ninety-seven dollars a barrel. Lufthansa has cut flights, European governments are preparing for winter fuel shortages, and developing economies are feeling it in food costs. Asia-Pacific markets fell Thursday on fresh US strikes targeting Iranian military sites.
 
-Global geopolitics. The Iran situation remains volatile. US forces struck a military site near Bandar Abbas airport this week, threatening Hormuz shipping. Iran's Revolutionary Guard hit back at a US air base, and Kuwait activated its air defences. Brent crude is near ninety-seven dollars a barrel. The Strait remains the pressure point.
+In Europe, the Ukraine war is escalating. Ukrainian forces struck a Russian drone pilot training camp, killing sixty-six. Russia hit back — a confirmed Russian-origin explosive drone struck Romanian territory, raising Article 5 questions. Germany's Chancellor Merz condemned Russia's use of the Oreshnik hypersonic missile, and Berlin is pushing for EU-independent Ukraine financing. European NATO allies are making a structural shift: unprecedented investment in deep-strike capability, closing gaps without waiting on Washington.
 
-The Trump-Xi Beijing summit is unfolding in parallel — the first US presidential visit to China since 2017. Middle East conflict, energy access, and Hormuz are front and centre. Any diplomatic signal out of Beijing will move markets fast.
+And the WEF's 2026 risk report is blunt: geoeconomic confrontation is now ranked the top near-term global crisis trigger.
 
-The UN's Gaza flash appeal for over four billion dollars has received just twelve percent of its target — under five hundred million — to support nearly three million people. The situation continues to deteriorate.
+In Germany, the government also released a national innovation roadmap covering AI, quantum computing, and cancer treatment. Youth entrepreneurship hit a record high last year.
 
-A Russian drone confirmed to have struck Romanian territory, carrying explosives. Alarm is rising on NATO's eastern flank. Latvia is pushing new security legislation in response.
+South Africa: Treasury published a landmark sustainable finance framework — three-point-seven trillion rand, around two hundred and twenty-eight billion US dollars — to fund the green transition, centred on green bonds. On a tenser note, xenophobia groups have set a June 30 deadline, and KwaZulu-Natal police are warning of trucking disruptions today.
 
-Japan's Nikkei topped sixty-five thousand for the first time on cautious Hormuz optimism. South Korea's Kospi also hitting highs. Markets are trading hope against risk.
+Australia: the 2026 Federal Budget keeps mining tax settings unchanged and introduces an AI-powered approvals process to fast-track critical minerals projects. A positive signal for the industry.
 
-Germany, South Africa, Australia. Germany has halved its 2026 growth forecast, citing energy shocks from the Iran war. The Foreign Minister is working to secure independent financing for Ukraine — Berlin preparing for the long haul.
+In tech: Anthropic is in early discussions with Microsoft to run Claude on Microsoft's custom Maia 200 AI chips via Azure — which claims over thirty percent better performance per dollar than rival silicon. If it goes through, it reshapes the cloud AI landscape.
 
-In South Africa, the June 30 deadline set by the March movement for undocumented foreigners to leave is driving real fear. Around three hundred Ghanaians voluntarily departed through OR Tambo this week. And a stunning corruption case: a single supply chain clerk at Tembisa Hospital engineered one-point-eight billion rand in corrupt deals. Assets frozen, pension blocked.
+And for the makers: ESPHome 2026.4 just landed with sensor updates up to forty-six times faster, thanks to a zero-copy architecture overhaul. A meaningful upgrade for any Home Assistant setup.
 
-In Australia, the Reserve Bank is forecasting GDP growth to slow through 2026 on the back of Iran conflict energy impacts.
+Science: Texas A&M researchers have developed a nasal spray that appears to reverse brain aging in animal trials — calming neuroinflammation and restoring energy systems, delivered straight through the nasal cavity to bypass the blood-brain barrier. Early stage, but a genuinely novel mechanism.
 
-Tech and AI. Anthropic has outpaced OpenAI among enterprise customers, quadrupling its market share since May last year. And China is restricting AI talent travel — researchers and founders now need government approval to go abroad. Beijing is treating its AI edge as a strategic asset.
+BHP: the FY26 operations report shows record concentrator throughput at Escondida in Chile, with copper guidance revised upward. Western Australian iron ore posted record first-half production and shipments. Strong operational delivery heading into the second half.
 
-Maker corner: ESPHome's 2026.4 release delivers sensor updates up to forty-six times faster through zero-copy architecture. Worth a look if you're tuning your nodes.
+On two wheels: the 2026 Kawasaki Z900RS gets a full six-axis IMU suite tying together traction control, cornering ABS, and the quick-shifter. All the safety smarts of a modern sportsbike in a classic retro package.
 
-Science. NASA's Webb Telescope has spotted a daily weather cycle on an exoplanet nearly seven hundred light-years away — mineral clouds forming every morning and dissolving by nightfall. The first time scientists have watched a complete weather cycle on a world outside our solar system.
+Finally, the weather. Warm and humid, highs thirty-three to thirty-five degrees. Afternoon thundery showers expected across parts of the island.
 
-Motorcycles. The fifth-generation Ducati Monster Plus is here — new 890cc V2 engine, thirteen pounds lighter, whole bike at three-eighty-six pounds, Ducati Red from fourteen thousand US. A proper street fighter.
-
-Sign-off. Singapore today: thirty-three to thirty-five degrees, afternoon thundery showers. And tomorrow night, May thirty-first, is a Blue Moon — second full moon of the month. Worth stepping outside if the clouds clear tonight.
-
-Have a great Saturday, Sean. Enjoy the weekend, and ride safe if you're on the bike.
+Have a great Saturday Sean. Enjoy the weekend, and ride safe if you're on the bike.
