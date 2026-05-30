@@ -1,0 +1,33 @@
+Good evening Sean, it's Saturday evening, the thirtieth of May.
+
+Quick one to start: tomorrow night the sky offers something rare. May's second full moon rises on the 31st — that makes it a Blue Moon, a phenomenon that happens roughly once every two to three years. So if you're out on Sunday evening, look up.
+
+Your calendar is completely clear tomorrow — it's Sunday. The day is yours.
+
+The Shangri-La Dialogue wrapped up its second day here in Singapore today. US Defence Secretary Pete Hegseth took the stage and used China's absence to rally allies — praising the Philippines, Australia, Indonesia, Malaysia, and Singapore for stepping up on defence burden-sharing, while warning of what he called rightful alarm over China's military build-up in the region. ASEAN defence ministers met on the sidelines and pledged to keep the Straits of Malacca and international corridors open. China's defence minister skipped the conference entirely, ceding the platform to Washington. The final day is tomorrow.
+
+Turning to global geopolitics — three stories worth watching tonight.
+
+The Iran-US conflict appears to be entering a cautious diplomatic phase. After US strikes on missile sites near Bandar Abbas and moves to block Gulf shipping lanes, both sides are now signalling tentative openness to a deal that could reopen the Strait of Hormuz. European governments have begun fuel shortage contingency planning, and oil markets are swinging on every diplomatic signal — watch this one closely overnight.
+
+In Europe, a Russian drone crashing into a Romanian apartment building has sharpened a painful conversation about the continent's vulnerability to modern aerial warfare. A mother and her 14-year-old child were injured just 20 kilometres from the Ukrainian border. Germany's Chancellor Merz today condemned Russia's use of the Oreshnik hypersonic missile in Ukraine, with broadcast studios belonging to ARD and DW also damaged in this week's Kyiv attacks.
+
+And a quiet tragedy: an Afghan refugee truck crash has killed 18 people, ten of them children.
+
+On Germany, South Africa, and Australia. From Germany: Berlin adopted new national roadmaps for AI, quantum computing, and cancer treatment today, and the number of entrepreneurs under 30 hit a record high in 2025 — a rare bright note amid the noise.
+
+From South Africa: the government has moved to calm fears ahead of the June 30th deadline set by the March and March movement for undocumented foreign nationals to leave. Around 300 Ghanaians departed voluntarily today. Researchers are warning of a dangerous inflection point in xenophobic tensions — one to watch closely as the month closes.
+
+From Australia: eleven Australians were detained by Israeli forces on a flotilla attempting to deliver humanitarian aid to Gaza. Canberra is seeking consular access.
+
+On the tech and AI front: Anthropic — the company behind the model powering this briefing — is reportedly in early talks with Microsoft to run Claude inference workloads on Microsoft's custom Maia 200 chips via Azure, which claims 30 percent better performance per dollar than rival silicon. A notable move if it closes.
+
+And for your home lab: ESPHome 2026.5.0 landed this week with the new Device Builder entering beta — a proper web interface replacing the old dashboard, with a config editor, firmware job queue, diff viewing, and a visual component builder. Still opt-in, but worth a look.
+
+On science: researchers at the University of Houston have shattered a superconductivity record — a material that conducts electricity with zero resistance at 151 Kelvin under normal atmospheric pressure. That is a meaningful step toward room-temperature superconductors that could transform everything from power grids to transportation.
+
+No BHP-specific news to report today.
+
+For tomorrow: Singapore stays warm and humid, 33 to 35 degrees, with afternoon thundery showers over parts of the island, and possible Sumatra squalls bringing gusty winds in the early morning hours.
+
+Have a wonderful Saturday evening, Sean. If Sunday calls for a ride, get out in the morning before the showers arrive. And don't forget to look up Sunday night for that Blue Moon.
